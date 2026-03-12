@@ -1,0 +1,13 @@
+ID,estacion,lat,long,Considerado,tipo,ID_archivo,sitio,archivo,estacion2,estacion_original,lat,long
+1,BSQ,-33.54606688,-70.66517052,SI,referencia,0,NA,NA,El Bosque,BSQ,"-33,546","-70,665"
+2,CNA,-33.43301075,-70.73210014,SI,referencia,0,NA,NA,Cerro Navia,CNA,"-33,433","-70,732"
+3,FLD,-33.51610874,-70.58813772,SI,referencia,0,NA,NA,La Florida,FLD,"-33,516","-70,588"
+4,CDE,-33.37639222,-70.52346222,SI,referencia,0,NA,NA,Las Condes,CDE,"-33,376","-70,523"
+5,PDH,-33.43798487,-70.7503877,SI,referencia,0,NA,NA,Pudahuel,PDH,"-33,438","-70,75"
+6,PTA,-33.59134682,-70.59475058,SI,referencia,0,NA,NA,Puente Alto,PTA,"-33,591","-70,595"
+7,QUI-I,-33.36576262,-70.74822755,SI,referencia,0,NA,NA,Quilicura I,QUI I,"-33,366","-70,748"
+8,OHG,-33.46415783,-70.66082895,SI,referencia,0,NA,NA,Parque O'Higgins,OHG,"-33,464","-70,661"
+9,QUI,-33.34962341,-70.72382651,SI,referencia,0,NA,NA,Quilicura,QUI,"-33,35","-70,724"
+10,IND,-33.4222136,-70.65117532,SI,referencia,0,NA,NA,Independencia,IND,"-33,422","-70,651"
+11,CER-I,-33.4929239,-70.71957418,SI,referencia,0,NA,NA,Cerrillos I,CERR-I,"-33,493","-70,72"
+12,CER-II,-33.49545709,-70.70453281,SI,referencia,0,NA,NA,Cerrillos II,CER-II,"-33,495","-70,705"
