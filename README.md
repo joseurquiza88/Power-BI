@@ -26,3 +26,7 @@ Cada proyecto incluye el archivo `.pbix` y capturas del dashboard para facilitar
 
 ---
 
+## Ejemplo de dashboard generado
+- Temática: contaminacion de PM2.5 en centros urbanos de America Latina
+
+![Curso_posgrado_IA_V02_page-0002](https://github.com/user-attachments/assets/87e9bead-f35a-4e42-8bf2-3fd68f3d3de3)
