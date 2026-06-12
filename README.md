@@ -1,5 +1,6 @@
 # Power BI – Proyectos de Análisis y Business Intelligence
 (Proyectos en proceso 🚧🧠)
+
 Este repositorio reúne distintos proyectos desarrollados en **Power BI** como parte de mi proceso de aprendizaje en análisis de datos y **Business Intelligence**.
 
 El objetivo es construir dashboards y modelos de datos que permitan explorar información de forma visual y responder preguntas de negocio. Los proyectos irán evolucionando progresivamente, comenzando con análisis más simples y avanzando hacia desarrollos más completos.
