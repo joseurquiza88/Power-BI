@@ -12,6 +12,8 @@ A lo largo de los proyectos se trabaja sobre distintos aspectos del proceso de B
 * **Modelado y vinculación de tablas**
 * Construcción de **medidas y métricas** para análisis de datos
 * Desarrollo de **dashboards interactivos** en Power BI
+* Comparativa Power BI vs Data Studio (Looker)
+* * Comparativa Power BI vs Tableau (proximamente)
 
 La idea es ir incorporando gradualmente nuevas herramientas, fuentes de datos y técnicas de análisis, documentando el proceso de aprendizaje desde proyectos iniciales hasta desarrollos más avanzados.
 
