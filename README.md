@@ -22,7 +22,7 @@ Los proyectos abarcan distintas etapas del proceso de análisis de datos:
 - **Enfoque:** Dashboard con indicadores de compras y ventas, evolución del margen bruto, formas de cobro, compras por categoría y proveedor, y ventas por cliente. Forma parte de un proceso de organización y análisis de información empresarial.
 - **Datos:** Información de operaciones reales obtenida de registros contables y facturas emitidas y recibidas de ARCA. Se modificaron valores y datos identificatorios para preservar la confidencialidad.
 
-#### [Informe mensual de ventas | Isla](Reporte%20informe%20isla)
+#### [Informe mensual de ventas | Isla](Reporte%20informe%20Isla)
 
 - **Objetivo:** Facilitar el seguimiento mensual de las ventas y el estado de las cuentas de la empresa.
 - **Enfoque:** Dashboard de seguimiento comercial utilizado mensualmente en la organización para analizar la evolución de las ventas, el desempeño por cliente y otros indicadores relevantes para la gestión.
