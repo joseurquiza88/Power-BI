@@ -16,7 +16,7 @@ Los proyectos abarcan distintas etapas del proceso de análisis de datos:
 
 ### 1. Análisis de negocio y aplicaciones reales
 
-#### [Isla | Análisis contable enero-junio 2026](isla)
+#### [Isla | Análisis contable enero-junio 2026](Isla)
 
 - **Objetivo:** Analizar la información contable de una PyME dedicada al reciclaje de residuos industriales para monitorear compras, ventas y margen bruto.
 - **Enfoque:** Dashboard con indicadores de compras y ventas, evolución del margen bruto, formas de cobro, compras por categoría y proveedor, y ventas por cliente. Forma parte de un proceso de organización y análisis de información empresarial.
