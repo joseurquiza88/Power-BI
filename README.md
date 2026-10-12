@@ -1,4 +1,6 @@
 
+<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/82ea587b-bf2d-4a63-8ff9-4c5bfa5b5b26" />
+
 # Power BI | Análisis de Datos y Business Intelligence
 
 Repositorio de proyectos de análisis de datos y Business Intelligence desarrollados con Power BI. Incluye dashboards aplicados a contextos empresariales y de investigación, ejercicios de análisis comercial y exploraciones de modelado, métricas y diseño visual.
