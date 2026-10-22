@@ -1,0 +1,74 @@
+{
+  "name": "Paleta Violeta Teal Crema",
+  "dataColors": [
+    "#5E35B1",
+    "#00897B",
+    "#9575CD",
+    "#26A69A",
+    "#7E57C2",
+    "#004D40",
+    "#B39DDB",
+    "#80CBC4"
+  ],
+  "background": "#FDFBF7",
+  "foreground": "#2E2A36",
+  "tableAccent": "#5E35B1",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "*": {
+          "fontSize": 10,
+          "fontFamily": "Segoe UI"
+        }
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FDFBF7"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFF8E7"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#5E35B1"
+              }
+            },
+            "fontSize": 24
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#5A5463"
+              }
+            },
+            "fontSize": 11
+          }
+        ]
+      }
+    }
+  }
+}

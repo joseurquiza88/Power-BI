@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "artifacts": [
+    {
+      "report": {
+        "path": "ventas_prueba_cloud.Report"
+      }
+    }
+  ],
+  "settings": {}
+}

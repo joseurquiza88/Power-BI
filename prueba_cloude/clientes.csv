@@ -1,0 +1,2201 @@
+﻿id_cliente,region,segmento
+C00001,Centro-Buenos Aires,Consumidor final
+C00002,Córdoba,Recurrente
+C00003,NEA,Consumidor final
+C00004,NEA,Consumidor final
+C00005,Centro-Buenos Aires,Consumidor final
+C00006,AMBA,Recurrente
+C00007,AMBA,Consumidor final
+C00008,Patagonia,Recurrente
+C00009,Cuyo,Consumidor final
+C00010,AMBA,Recurrente
+C00011,Córdoba,Premium
+C00012,AMBA,Recurrente
+C00013,AMBA,Recurrente
+C00014,AMBA,Premium
+C00015,Centro-Buenos Aires,Recurrente
+C00016,Córdoba,Premium
+C00017,AMBA,Consumidor final
+C00018,Córdoba,Consumidor final
+C00019,AMBA,Consumidor final
+C00020,AMBA,Consumidor final
+C00021,AMBA,Consumidor final
+C00022,Santa Fe,Corporativo
+C00023,Santa Fe,Recurrente
+C00024,Patagonia,Consumidor final
+C00025,AMBA,Premium
+C00026,Córdoba,Corporativo
+C00027,AMBA,Consumidor final
+C00028,Córdoba,Consumidor final
+C00029,Centro-Buenos Aires,Recurrente
+C00030,Centro-Buenos Aires,Consumidor final
+C00031,NOA,Premium
+C00032,NOA,Consumidor final
+C00033,AMBA,Recurrente
+C00034,Santa Fe,Consumidor final
+C00035,NEA,Recurrente
+C00036,NOA,Consumidor final
+C00037,Santa Fe,Consumidor final
+C00038,Patagonia,Recurrente
+C00039,Patagonia,Consumidor final
+C00040,Córdoba,Consumidor final
+C00041,Córdoba,Premium
+C00042,AMBA,Consumidor final
+C00043,NEA,Recurrente
+C00044,Córdoba,Consumidor final
+C00045,Santa Fe,Consumidor final
+C00046,Córdoba,Premium
+C00047,AMBA,Consumidor final
+C00048,Centro-Buenos Aires,Premium
+C00049,Santa Fe,Consumidor final
+C00050,Centro-Buenos Aires,Consumidor final
+C00051,AMBA,Consumidor final
+C00052,Patagonia,Recurrente
+C00053,AMBA,Consumidor final
+C00054,AMBA,Consumidor final
+C00055,NOA,Consumidor final
+C00056,NOA,Consumidor final
+C00057,Centro-Buenos Aires,Premium
+C00058,Centro-Buenos Aires,Consumidor final
+C00059,Centro-Buenos Aires,Consumidor final
+C00060,Cuyo,Recurrente
+C00061,Córdoba,Consumidor final
+C00062,AMBA,Consumidor final
+C00063,Córdoba,Recurrente
+C00064,AMBA,Consumidor final
+C00065,Santa Fe,Recurrente
+C00066,Santa Fe,Premium
+C00067,AMBA,Consumidor final
+C00068,Córdoba,Consumidor final
+C00069,NEA,Premium
+C00070,Cuyo,Consumidor final
+C00071,AMBA,Recurrente
+C00072,AMBA,Recurrente
+C00073,AMBA,Consumidor final
+C00074,NEA,Premium
+C00075,Centro-Buenos Aires,Consumidor final
+C00076,Córdoba,Consumidor final
+C00077,Centro-Buenos Aires,Recurrente
+C00078,Patagonia,Consumidor final
+C00079,AMBA,Recurrente
+C00080,NOA,Consumidor final
+C00081,Santa Fe,Consumidor final
+C00082,Santa Fe,Recurrente
+C00083,Cuyo,Consumidor final
+C00084,Centro-Buenos Aires,Consumidor final
+C00085,AMBA,Recurrente
+C00086,Centro-Buenos Aires,Corporativo
+C00087,AMBA,Consumidor final
+C00088,NOA,Recurrente
+C00089,AMBA,Consumidor final
+C00090,AMBA,Consumidor final
+C00091,AMBA,Consumidor final
+C00092,Cuyo,Recurrente
+C00093,Córdoba,Consumidor final
+C00094,Córdoba,Recurrente
+C00095,Centro-Buenos Aires,Corporativo
+C00096,AMBA,Premium
+C00097,NEA,Consumidor final
+C00098,Santa Fe,Consumidor final
+C00099,AMBA,Premium
+C00100,AMBA,Consumidor final
+C00101,AMBA,Recurrente
+C00102,AMBA,Consumidor final
+C00103,Patagonia,Corporativo
+C00104,NEA,Recurrente
+C00105,Santa Fe,Recurrente
+C00106,AMBA,Recurrente
+C00107,Cuyo,Recurrente
+C00108,Cuyo,Consumidor final
+C00109,Santa Fe,Premium
+C00110,AMBA,Recurrente
+C00111,AMBA,Recurrente
+C00112,Córdoba,Corporativo
+C00113,NOA,Consumidor final
+C00114,Santa Fe,Consumidor final
+C00115,Córdoba,Consumidor final
+C00116,NEA,Consumidor final
+C00117,Córdoba,Consumidor final
+C00118,Santa Fe,Consumidor final
+C00119,Cuyo,Corporativo
+C00120,AMBA,Consumidor final
+C00121,Santa Fe,Premium
+C00122,AMBA,Consumidor final
+C00123,AMBA,Recurrente
+C00124,Cuyo,Consumidor final
+C00125,Centro-Buenos Aires,Premium
+C00126,Córdoba,Recurrente
+C00127,Santa Fe,Premium
+C00128,Santa Fe,Consumidor final
+C00129,Córdoba,Recurrente
+C00130,Santa Fe,Consumidor final
+C00131,Santa Fe,Premium
+C00132,AMBA,Consumidor final
+C00133,AMBA,Consumidor final
+C00134,Córdoba,Premium
+C00135,AMBA,Recurrente
+C00136,Santa Fe,Consumidor final
+C00137,AMBA,Recurrente
+C00138,Centro-Buenos Aires,Consumidor final
+C00139,AMBA,Consumidor final
+C00140,Santa Fe,Consumidor final
+C00141,Córdoba,Consumidor final
+C00142,AMBA,Premium
+C00143,Patagonia,Consumidor final
+C00144,Córdoba,Consumidor final
+C00145,Córdoba,Consumidor final
+C00146,AMBA,Premium
+C00147,Santa Fe,Recurrente
+C00148,Centro-Buenos Aires,Premium
+C00149,Centro-Buenos Aires,Recurrente
+C00150,AMBA,Consumidor final
+C00151,Cuyo,Recurrente
+C00152,NEA,Consumidor final
+C00153,Santa Fe,Consumidor final
+C00154,Cuyo,Consumidor final
+C00155,AMBA,Consumidor final
+C00156,AMBA,Consumidor final
+C00157,Cuyo,Consumidor final
+C00158,Córdoba,Consumidor final
+C00159,Cuyo,Consumidor final
+C00160,Córdoba,Recurrente
+C00161,AMBA,Consumidor final
+C00162,Cuyo,Recurrente
+C00163,AMBA,Consumidor final
+C00164,AMBA,Consumidor final
+C00165,AMBA,Consumidor final
+C00166,Centro-Buenos Aires,Consumidor final
+C00167,Santa Fe,Recurrente
+C00168,Centro-Buenos Aires,Consumidor final
+C00169,AMBA,Consumidor final
+C00170,Córdoba,Corporativo
+C00171,AMBA,Recurrente
+C00172,NOA,Premium
+C00173,AMBA,Consumidor final
+C00174,AMBA,Consumidor final
+C00175,Cuyo,Consumidor final
+C00176,Córdoba,Consumidor final
+C00177,AMBA,Recurrente
+C00178,Córdoba,Consumidor final
+C00179,Córdoba,Premium
+C00180,AMBA,Premium
+C00181,NOA,Consumidor final
+C00182,Santa Fe,Premium
+C00183,Santa Fe,Consumidor final
+C00184,Santa Fe,Consumidor final
+C00185,NOA,Consumidor final
+C00186,AMBA,Consumidor final
+C00187,Cuyo,Consumidor final
+C00188,Centro-Buenos Aires,Premium
+C00189,Santa Fe,Recurrente
+C00190,Centro-Buenos Aires,Recurrente
+C00191,AMBA,Consumidor final
+C00192,AMBA,Recurrente
+C00193,AMBA,Recurrente
+C00194,Santa Fe,Premium
+C00195,AMBA,Consumidor final
+C00196,AMBA,Premium
+C00197,NEA,Consumidor final
+C00198,AMBA,Recurrente
+C00199,AMBA,Premium
+C00200,AMBA,Premium
+C00201,Córdoba,Consumidor final
+C00202,AMBA,Recurrente
+C00203,Cuyo,Consumidor final
+C00204,AMBA,Recurrente
+C00205,NEA,Consumidor final
+C00206,Centro-Buenos Aires,Consumidor final
+C00207,Santa Fe,Recurrente
+C00208,Santa Fe,Consumidor final
+C00209,Patagonia,Consumidor final
+C00210,AMBA,Consumidor final
+C00211,NOA,Consumidor final
+C00212,Patagonia,Recurrente
+C00213,AMBA,Premium
+C00214,NOA,Recurrente
+C00215,Córdoba,Consumidor final
+C00216,AMBA,Consumidor final
+C00217,AMBA,Premium
+C00218,Centro-Buenos Aires,Recurrente
+C00219,NEA,Consumidor final
+C00220,NOA,Consumidor final
+C00221,Santa Fe,Premium
+C00222,AMBA,Recurrente
+C00223,Córdoba,Premium
+C00224,AMBA,Recurrente
+C00225,AMBA,Consumidor final
+C00226,NOA,Premium
+C00227,Córdoba,Consumidor final
+C00228,Patagonia,Recurrente
+C00229,AMBA,Corporativo
+C00230,Santa Fe,Premium
+C00231,Cuyo,Recurrente
+C00232,Córdoba,Recurrente
+C00233,Córdoba,Premium
+C00234,Centro-Buenos Aires,Consumidor final
+C00235,AMBA,Corporativo
+C00236,AMBA,Corporativo
+C00237,Cuyo,Consumidor final
+C00238,NOA,Consumidor final
+C00239,Cuyo,Premium
+C00240,Córdoba,Recurrente
+C00241,AMBA,Consumidor final
+C00242,AMBA,Recurrente
+C00243,AMBA,Recurrente
+C00244,Centro-Buenos Aires,Premium
+C00245,AMBA,Consumidor final
+C00246,AMBA,Consumidor final
+C00247,Córdoba,Consumidor final
+C00248,AMBA,Consumidor final
+C00249,AMBA,Consumidor final
+C00250,Patagonia,Recurrente
+C00251,Córdoba,Consumidor final
+C00252,Centro-Buenos Aires,Corporativo
+C00253,Córdoba,Consumidor final
+C00254,Córdoba,Recurrente
+C00255,NOA,Recurrente
+C00256,AMBA,Consumidor final
+C00257,Cuyo,Consumidor final
+C00258,Córdoba,Consumidor final
+C00259,AMBA,Consumidor final
+C00260,Santa Fe,Recurrente
+C00261,Córdoba,Consumidor final
+C00262,Córdoba,Consumidor final
+C00263,Patagonia,Consumidor final
+C00264,Cuyo,Premium
+C00265,Santa Fe,Consumidor final
+C00266,Centro-Buenos Aires,Consumidor final
+C00267,Cuyo,Consumidor final
+C00268,AMBA,Recurrente
+C00269,NEA,Consumidor final
+C00270,NOA,Consumidor final
+C00271,Cuyo,Consumidor final
+C00272,Santa Fe,Recurrente
+C00273,Córdoba,Consumidor final
+C00274,Santa Fe,Recurrente
+C00275,Centro-Buenos Aires,Consumidor final
+C00276,AMBA,Recurrente
+C00277,Santa Fe,Consumidor final
+C00278,AMBA,Premium
+C00279,Santa Fe,Consumidor final
+C00280,AMBA,Recurrente
+C00281,AMBA,Recurrente
+C00282,AMBA,Recurrente
+C00283,Córdoba,Consumidor final
+C00284,NEA,Recurrente
+C00285,AMBA,Recurrente
+C00286,AMBA,Recurrente
+C00287,AMBA,Consumidor final
+C00288,AMBA,Consumidor final
+C00289,Córdoba,Recurrente
+C00290,NEA,Consumidor final
+C00291,Centro-Buenos Aires,Consumidor final
+C00292,Santa Fe,Recurrente
+C00293,Cuyo,Recurrente
+C00294,AMBA,Consumidor final
+C00295,Córdoba,Consumidor final
+C00296,AMBA,Premium
+C00297,Santa Fe,Consumidor final
+C00298,NOA,Consumidor final
+C00299,AMBA,Consumidor final
+C00300,Santa Fe,Recurrente
+C00301,AMBA,Consumidor final
+C00302,NOA,Recurrente
+C00303,Córdoba,Consumidor final
+C00304,Córdoba,Recurrente
+C00305,Córdoba,Consumidor final
+C00306,Córdoba,Consumidor final
+C00307,Córdoba,Consumidor final
+C00308,NEA,Consumidor final
+C00309,Córdoba,Consumidor final
+C00310,Cuyo,Consumidor final
+C00311,AMBA,Consumidor final
+C00312,Patagonia,Recurrente
+C00313,NEA,Premium
+C00314,AMBA,Consumidor final
+C00315,Patagonia,Premium
+C00316,AMBA,Corporativo
+C00317,AMBA,Consumidor final
+C00318,AMBA,Consumidor final
+C00319,NEA,Corporativo
+C00320,NOA,Recurrente
+C00321,NEA,Consumidor final
+C00322,Cuyo,Consumidor final
+C00323,Cuyo,Recurrente
+C00324,Cuyo,Consumidor final
+C00325,NOA,Consumidor final
+C00326,AMBA,Consumidor final
+C00327,Centro-Buenos Aires,Consumidor final
+C00328,AMBA,Consumidor final
+C00329,Patagonia,Recurrente
+C00330,AMBA,Consumidor final
+C00331,Santa Fe,Premium
+C00332,AMBA,Consumidor final
+C00333,AMBA,Consumidor final
+C00334,Centro-Buenos Aires,Premium
+C00335,AMBA,Recurrente
+C00336,AMBA,Consumidor final
+C00337,Santa Fe,Consumidor final
+C00338,AMBA,Recurrente
+C00339,AMBA,Corporativo
+C00340,AMBA,Consumidor final
+C00341,Córdoba,Consumidor final
+C00342,AMBA,Premium
+C00343,Córdoba,Consumidor final
+C00344,Patagonia,Premium
+C00345,Santa Fe,Recurrente
+C00346,Córdoba,Recurrente
+C00347,Córdoba,Recurrente
+C00348,Centro-Buenos Aires,Consumidor final
+C00349,Cuyo,Consumidor final
+C00350,Santa Fe,Recurrente
+C00351,Cuyo,Recurrente
+C00352,NEA,Recurrente
+C00353,NOA,Consumidor final
+C00354,Centro-Buenos Aires,Consumidor final
+C00355,Cuyo,Recurrente
+C00356,NEA,Consumidor final
+C00357,AMBA,Consumidor final
+C00358,Córdoba,Consumidor final
+C00359,NEA,Consumidor final
+C00360,AMBA,Recurrente
+C00361,Córdoba,Premium
+C00362,AMBA,Consumidor final
+C00363,AMBA,Premium
+C00364,AMBA,Consumidor final
+C00365,Centro-Buenos Aires,Consumidor final
+C00366,Cuyo,Consumidor final
+C00367,Centro-Buenos Aires,Consumidor final
+C00368,AMBA,Recurrente
+C00369,Santa Fe,Recurrente
+C00370,NEA,Premium
+C00371,AMBA,Corporativo
+C00372,NOA,Consumidor final
+C00373,Cuyo,Recurrente
+C00374,Córdoba,Recurrente
+C00375,AMBA,Recurrente
+C00376,Córdoba,Consumidor final
+C00377,NOA,Recurrente
+C00378,Patagonia,Consumidor final
+C00379,AMBA,Corporativo
+C00380,AMBA,Consumidor final
+C00381,Patagonia,Premium
+C00382,Centro-Buenos Aires,Recurrente
+C00383,Patagonia,Premium
+C00384,Centro-Buenos Aires,Consumidor final
+C00385,AMBA,Corporativo
+C00386,AMBA,Recurrente
+C00387,Santa Fe,Recurrente
+C00388,AMBA,Recurrente
+C00389,AMBA,Consumidor final
+C00390,NEA,Consumidor final
+C00391,AMBA,Consumidor final
+C00392,Córdoba,Recurrente
+C00393,Patagonia,Consumidor final
+C00394,Patagonia,Consumidor final
+C00395,NOA,Recurrente
+C00396,AMBA,Consumidor final
+C00397,Santa Fe,Consumidor final
+C00398,AMBA,Recurrente
+C00399,Cuyo,Recurrente
+C00400,Cuyo,Recurrente
+C00401,Córdoba,Recurrente
+C00402,Patagonia,Consumidor final
+C00403,NOA,Consumidor final
+C00404,Patagonia,Recurrente
+C00405,Cuyo,Recurrente
+C00406,Santa Fe,Consumidor final
+C00407,AMBA,Consumidor final
+C00408,Cuyo,Consumidor final
+C00409,Córdoba,Consumidor final
+C00410,AMBA,Consumidor final
+C00411,AMBA,Consumidor final
+C00412,Cuyo,Consumidor final
+C00413,AMBA,Consumidor final
+C00414,NEA,Consumidor final
+C00415,AMBA,Recurrente
+C00416,AMBA,Corporativo
+C00417,Córdoba,Premium
+C00418,Córdoba,Premium
+C00419,Cuyo,Premium
+C00420,Patagonia,Consumidor final
+C00421,NEA,Recurrente
+C00422,AMBA,Recurrente
+C00423,Cuyo,Recurrente
+C00424,Cuyo,Consumidor final
+C00425,Patagonia,Consumidor final
+C00426,Córdoba,Consumidor final
+C00427,AMBA,Consumidor final
+C00428,Córdoba,Consumidor final
+C00429,AMBA,Recurrente
+C00430,Patagonia,Consumidor final
+C00431,NEA,Recurrente
+C00432,Córdoba,Recurrente
+C00433,NOA,Recurrente
+C00434,Centro-Buenos Aires,Recurrente
+C00435,AMBA,Recurrente
+C00436,Patagonia,Recurrente
+C00437,AMBA,Consumidor final
+C00438,Córdoba,Premium
+C00439,Patagonia,Recurrente
+C00440,Córdoba,Consumidor final
+C00441,Centro-Buenos Aires,Consumidor final
+C00442,Cuyo,Recurrente
+C00443,AMBA,Consumidor final
+C00444,Córdoba,Consumidor final
+C00445,NOA,Consumidor final
+C00446,Córdoba,Consumidor final
+C00447,Córdoba,Consumidor final
+C00448,Córdoba,Recurrente
+C00449,Santa Fe,Consumidor final
+C00450,NOA,Consumidor final
+C00451,Cuyo,Premium
+C00452,NEA,Consumidor final
+C00453,Córdoba,Premium
+C00454,AMBA,Premium
+C00455,Centro-Buenos Aires,Consumidor final
+C00456,Santa Fe,Premium
+C00457,Centro-Buenos Aires,Premium
+C00458,NOA,Recurrente
+C00459,Córdoba,Consumidor final
+C00460,Córdoba,Recurrente
+C00461,AMBA,Consumidor final
+C00462,AMBA,Recurrente
+C00463,NOA,Recurrente
+C00464,Patagonia,Consumidor final
+C00465,AMBA,Consumidor final
+C00466,AMBA,Consumidor final
+C00467,AMBA,Consumidor final
+C00468,AMBA,Consumidor final
+C00469,Patagonia,Consumidor final
+C00470,Santa Fe,Premium
+C00471,Córdoba,Consumidor final
+C00472,Cuyo,Recurrente
+C00473,AMBA,Premium
+C00474,Cuyo,Premium
+C00475,NOA,Recurrente
+C00476,NOA,Consumidor final
+C00477,Santa Fe,Recurrente
+C00478,Santa Fe,Consumidor final
+C00479,AMBA,Consumidor final
+C00480,Patagonia,Consumidor final
+C00481,Patagonia,Consumidor final
+C00482,NEA,Consumidor final
+C00483,NOA,Premium
+C00484,Centro-Buenos Aires,Premium
+C00485,NOA,Recurrente
+C00486,Santa Fe,Premium
+C00487,Santa Fe,Recurrente
+C00488,Córdoba,Recurrente
+C00489,NOA,Consumidor final
+C00490,Centro-Buenos Aires,Corporativo
+C00491,Patagonia,Premium
+C00492,AMBA,Recurrente
+C00493,AMBA,Recurrente
+C00494,NEA,Consumidor final
+C00495,Centro-Buenos Aires,Consumidor final
+C00496,NOA,Consumidor final
+C00497,Patagonia,Recurrente
+C00498,Córdoba,Consumidor final
+C00499,NOA,Premium
+C00500,AMBA,Recurrente
+C00501,AMBA,Consumidor final
+C00502,NOA,Consumidor final
+C00503,Centro-Buenos Aires,Consumidor final
+C00504,Santa Fe,Consumidor final
+C00505,NEA,Consumidor final
+C00506,Córdoba,Consumidor final
+C00507,Córdoba,Recurrente
+C00508,AMBA,Consumidor final
+C00509,Santa Fe,Consumidor final
+C00510,NEA,Recurrente
+C00511,AMBA,Consumidor final
+C00512,AMBA,Recurrente
+C00513,Santa Fe,Consumidor final
+C00514,AMBA,Consumidor final
+C00515,Santa Fe,Recurrente
+C00516,Santa Fe,Consumidor final
+C00517,AMBA,Premium
+C00518,Santa Fe,Recurrente
+C00519,AMBA,Consumidor final
+C00520,Córdoba,Consumidor final
+C00521,Cuyo,Recurrente
+C00522,Santa Fe,Recurrente
+C00523,AMBA,Consumidor final
+C00524,Córdoba,Consumidor final
+C00525,Córdoba,Recurrente
+C00526,AMBA,Recurrente
+C00527,AMBA,Consumidor final
+C00528,Patagonia,Consumidor final
+C00529,Centro-Buenos Aires,Consumidor final
+C00530,Santa Fe,Premium
+C00531,AMBA,Corporativo
+C00532,AMBA,Recurrente
+C00533,Córdoba,Premium
+C00534,AMBA,Consumidor final
+C00535,Córdoba,Consumidor final
+C00536,AMBA,Recurrente
+C00537,Patagonia,Consumidor final
+C00538,Santa Fe,Consumidor final
+C00539,Santa Fe,Consumidor final
+C00540,AMBA,Consumidor final
+C00541,Santa Fe,Consumidor final
+C00542,AMBA,Recurrente
+C00543,NEA,Recurrente
+C00544,Centro-Buenos Aires,Corporativo
+C00545,Córdoba,Recurrente
+C00546,Patagonia,Consumidor final
+C00547,Patagonia,Recurrente
+C00548,Santa Fe,Recurrente
+C00549,Cuyo,Recurrente
+C00550,AMBA,Premium
+C00551,Cuyo,Consumidor final
+C00552,Córdoba,Consumidor final
+C00553,NOA,Premium
+C00554,NEA,Consumidor final
+C00555,Córdoba,Premium
+C00556,AMBA,Recurrente
+C00557,NOA,Consumidor final
+C00558,AMBA,Consumidor final
+C00559,AMBA,Recurrente
+C00560,Santa Fe,Consumidor final
+C00561,Santa Fe,Premium
+C00562,Córdoba,Consumidor final
+C00563,AMBA,Consumidor final
+C00564,Centro-Buenos Aires,Recurrente
+C00565,AMBA,Consumidor final
+C00566,Córdoba,Consumidor final
+C00567,AMBA,Consumidor final
+C00568,NOA,Recurrente
+C00569,Centro-Buenos Aires,Recurrente
+C00570,AMBA,Consumidor final
+C00571,AMBA,Recurrente
+C00572,AMBA,Consumidor final
+C00573,AMBA,Recurrente
+C00574,AMBA,Consumidor final
+C00575,Centro-Buenos Aires,Consumidor final
+C00576,Patagonia,Corporativo
+C00577,AMBA,Corporativo
+C00578,Santa Fe,Consumidor final
+C00579,AMBA,Recurrente
+C00580,AMBA,Consumidor final
+C00581,Cuyo,Recurrente
+C00582,AMBA,Premium
+C00583,AMBA,Consumidor final
+C00584,AMBA,Premium
+C00585,NOA,Consumidor final
+C00586,Santa Fe,Consumidor final
+C00587,AMBA,Consumidor final
+C00588,AMBA,Premium
+C00589,Cuyo,Premium
+C00590,Córdoba,Premium
+C00591,AMBA,Consumidor final
+C00592,AMBA,Consumidor final
+C00593,Córdoba,Recurrente
+C00594,NOA,Consumidor final
+C00595,AMBA,Recurrente
+C00596,Córdoba,Consumidor final
+C00597,Córdoba,Consumidor final
+C00598,AMBA,Consumidor final
+C00599,Córdoba,Consumidor final
+C00600,Santa Fe,Consumidor final
+C00601,AMBA,Consumidor final
+C00602,AMBA,Consumidor final
+C00603,NOA,Premium
+C00604,NOA,Consumidor final
+C00605,NOA,Recurrente
+C00606,Santa Fe,Premium
+C00607,Santa Fe,Premium
+C00608,Cuyo,Recurrente
+C00609,Córdoba,Recurrente
+C00610,AMBA,Consumidor final
+C00611,NOA,Recurrente
+C00612,Centro-Buenos Aires,Consumidor final
+C00613,Patagonia,Consumidor final
+C00614,Córdoba,Recurrente
+C00615,Santa Fe,Premium
+C00616,Cuyo,Recurrente
+C00617,AMBA,Corporativo
+C00618,AMBA,Consumidor final
+C00619,AMBA,Consumidor final
+C00620,AMBA,Recurrente
+C00621,Santa Fe,Premium
+C00622,Córdoba,Consumidor final
+C00623,Córdoba,Premium
+C00624,AMBA,Recurrente
+C00625,AMBA,Recurrente
+C00626,AMBA,Consumidor final
+C00627,Cuyo,Recurrente
+C00628,Cuyo,Premium
+C00629,Cuyo,Recurrente
+C00630,AMBA,Recurrente
+C00631,AMBA,Consumidor final
+C00632,Santa Fe,Consumidor final
+C00633,Córdoba,Consumidor final
+C00634,AMBA,Consumidor final
+C00635,Centro-Buenos Aires,Recurrente
+C00636,Córdoba,Corporativo
+C00637,NEA,Premium
+C00638,Córdoba,Premium
+C00639,NEA,Recurrente
+C00640,AMBA,Consumidor final
+C00641,AMBA,Consumidor final
+C00642,Córdoba,Consumidor final
+C00643,NEA,Consumidor final
+C00644,Santa Fe,Premium
+C00645,Córdoba,Consumidor final
+C00646,Centro-Buenos Aires,Recurrente
+C00647,Córdoba,Consumidor final
+C00648,NEA,Consumidor final
+C00649,AMBA,Consumidor final
+C00650,NOA,Consumidor final
+C00651,AMBA,Consumidor final
+C00652,Córdoba,Consumidor final
+C00653,NEA,Consumidor final
+C00654,Córdoba,Consumidor final
+C00655,AMBA,Premium
+C00656,AMBA,Consumidor final
+C00657,NOA,Recurrente
+C00658,Santa Fe,Consumidor final
+C00659,Córdoba,Premium
+C00660,Centro-Buenos Aires,Recurrente
+C00661,Cuyo,Consumidor final
+C00662,AMBA,Recurrente
+C00663,NOA,Premium
+C00664,NOA,Premium
+C00665,AMBA,Consumidor final
+C00666,Cuyo,Consumidor final
+C00667,NEA,Consumidor final
+C00668,Santa Fe,Consumidor final
+C00669,Santa Fe,Consumidor final
+C00670,Patagonia,Premium
+C00671,Santa Fe,Premium
+C00672,Patagonia,Consumidor final
+C00673,NEA,Premium
+C00674,NOA,Consumidor final
+C00675,NOA,Consumidor final
+C00676,AMBA,Consumidor final
+C00677,NOA,Consumidor final
+C00678,Córdoba,Corporativo
+C00679,Santa Fe,Consumidor final
+C00680,AMBA,Consumidor final
+C00681,Córdoba,Consumidor final
+C00682,NOA,Recurrente
+C00683,NOA,Consumidor final
+C00684,Cuyo,Recurrente
+C00685,Patagonia,Recurrente
+C00686,Santa Fe,Consumidor final
+C00687,AMBA,Premium
+C00688,Centro-Buenos Aires,Consumidor final
+C00689,Córdoba,Premium
+C00690,NOA,Recurrente
+C00691,AMBA,Consumidor final
+C00692,Cuyo,Premium
+C00693,Córdoba,Recurrente
+C00694,AMBA,Recurrente
+C00695,AMBA,Consumidor final
+C00696,Córdoba,Recurrente
+C00697,Santa Fe,Consumidor final
+C00698,Córdoba,Consumidor final
+C00699,AMBA,Consumidor final
+C00700,Cuyo,Consumidor final
+C00701,NOA,Recurrente
+C00702,AMBA,Corporativo
+C00703,AMBA,Recurrente
+C00704,Santa Fe,Recurrente
+C00705,Córdoba,Consumidor final
+C00706,Centro-Buenos Aires,Consumidor final
+C00707,Santa Fe,Recurrente
+C00708,Cuyo,Consumidor final
+C00709,AMBA,Consumidor final
+C00710,AMBA,Consumidor final
+C00711,Cuyo,Premium
+C00712,AMBA,Recurrente
+C00713,AMBA,Consumidor final
+C00714,Santa Fe,Consumidor final
+C00715,Santa Fe,Consumidor final
+C00716,NOA,Consumidor final
+C00717,Córdoba,Consumidor final
+C00718,AMBA,Recurrente
+C00719,Cuyo,Recurrente
+C00720,Santa Fe,Consumidor final
+C00721,AMBA,Recurrente
+C00722,Córdoba,Consumidor final
+C00723,NEA,Consumidor final
+C00724,AMBA,Corporativo
+C00725,AMBA,Consumidor final
+C00726,Santa Fe,Premium
+C00727,NEA,Recurrente
+C00728,Córdoba,Consumidor final
+C00729,AMBA,Consumidor final
+C00730,Santa Fe,Consumidor final
+C00731,AMBA,Consumidor final
+C00732,AMBA,Consumidor final
+C00733,AMBA,Consumidor final
+C00734,AMBA,Premium
+C00735,AMBA,Consumidor final
+C00736,Cuyo,Consumidor final
+C00737,AMBA,Consumidor final
+C00738,NOA,Consumidor final
+C00739,AMBA,Corporativo
+C00740,Córdoba,Consumidor final
+C00741,Santa Fe,Consumidor final
+C00742,AMBA,Recurrente
+C00743,Santa Fe,Recurrente
+C00744,Patagonia,Recurrente
+C00745,Centro-Buenos Aires,Consumidor final
+C00746,Centro-Buenos Aires,Consumidor final
+C00747,AMBA,Recurrente
+C00748,AMBA,Premium
+C00749,NEA,Recurrente
+C00750,AMBA,Recurrente
+C00751,Cuyo,Consumidor final
+C00752,NEA,Premium
+C00753,AMBA,Recurrente
+C00754,AMBA,Corporativo
+C00755,Santa Fe,Consumidor final
+C00756,Patagonia,Recurrente
+C00757,Centro-Buenos Aires,Corporativo
+C00758,AMBA,Recurrente
+C00759,AMBA,Consumidor final
+C00760,AMBA,Recurrente
+C00761,Centro-Buenos Aires,Consumidor final
+C00762,Cuyo,Recurrente
+C00763,AMBA,Consumidor final
+C00764,Centro-Buenos Aires,Consumidor final
+C00765,Centro-Buenos Aires,Premium
+C00766,NEA,Consumidor final
+C00767,NEA,Recurrente
+C00768,AMBA,Corporativo
+C00769,AMBA,Premium
+C00770,NOA,Consumidor final
+C00771,Centro-Buenos Aires,Consumidor final
+C00772,Cuyo,Recurrente
+C00773,Cuyo,Consumidor final
+C00774,Santa Fe,Premium
+C00775,Centro-Buenos Aires,Consumidor final
+C00776,Centro-Buenos Aires,Recurrente
+C00777,Córdoba,Corporativo
+C00778,Córdoba,Consumidor final
+C00779,Santa Fe,Premium
+C00780,AMBA,Recurrente
+C00781,Córdoba,Consumidor final
+C00782,AMBA,Consumidor final
+C00783,Centro-Buenos Aires,Recurrente
+C00784,Centro-Buenos Aires,Recurrente
+C00785,NEA,Consumidor final
+C00786,Centro-Buenos Aires,Consumidor final
+C00787,NEA,Consumidor final
+C00788,Córdoba,Consumidor final
+C00789,Córdoba,Premium
+C00790,Córdoba,Recurrente
+C00791,AMBA,Consumidor final
+C00792,AMBA,Recurrente
+C00793,Córdoba,Consumidor final
+C00794,Santa Fe,Recurrente
+C00795,AMBA,Premium
+C00796,AMBA,Consumidor final
+C00797,NEA,Consumidor final
+C00798,Cuyo,Consumidor final
+C00799,AMBA,Consumidor final
+C00800,Patagonia,Recurrente
+C00801,NEA,Recurrente
+C00802,AMBA,Consumidor final
+C00803,AMBA,Premium
+C00804,AMBA,Corporativo
+C00805,NEA,Consumidor final
+C00806,AMBA,Premium
+C00807,Córdoba,Recurrente
+C00808,AMBA,Consumidor final
+C00809,AMBA,Recurrente
+C00810,AMBA,Consumidor final
+C00811,AMBA,Consumidor final
+C00812,Santa Fe,Premium
+C00813,Córdoba,Recurrente
+C00814,AMBA,Consumidor final
+C00815,Córdoba,Consumidor final
+C00816,AMBA,Consumidor final
+C00817,Córdoba,Consumidor final
+C00818,Santa Fe,Consumidor final
+C00819,Patagonia,Premium
+C00820,AMBA,Recurrente
+C00821,Santa Fe,Recurrente
+C00822,Patagonia,Consumidor final
+C00823,Santa Fe,Consumidor final
+C00824,Córdoba,Consumidor final
+C00825,AMBA,Consumidor final
+C00826,NOA,Consumidor final
+C00827,NOA,Recurrente
+C00828,AMBA,Premium
+C00829,NEA,Consumidor final
+C00830,Santa Fe,Consumidor final
+C00831,Centro-Buenos Aires,Consumidor final
+C00832,Centro-Buenos Aires,Corporativo
+C00833,Santa Fe,Consumidor final
+C00834,AMBA,Recurrente
+C00835,Centro-Buenos Aires,Consumidor final
+C00836,NOA,Premium
+C00837,Patagonia,Recurrente
+C00838,AMBA,Consumidor final
+C00839,NOA,Consumidor final
+C00840,Patagonia,Consumidor final
+C00841,Cuyo,Premium
+C00842,Santa Fe,Premium
+C00843,Patagonia,Premium
+C00844,Córdoba,Premium
+C00845,Córdoba,Consumidor final
+C00846,Santa Fe,Consumidor final
+C00847,AMBA,Recurrente
+C00848,AMBA,Consumidor final
+C00849,AMBA,Consumidor final
+C00850,Centro-Buenos Aires,Consumidor final
+C00851,AMBA,Recurrente
+C00852,Cuyo,Consumidor final
+C00853,Centro-Buenos Aires,Consumidor final
+C00854,Córdoba,Consumidor final
+C00855,Cuyo,Recurrente
+C00856,AMBA,Consumidor final
+C00857,Córdoba,Recurrente
+C00858,AMBA,Consumidor final
+C00859,Santa Fe,Consumidor final
+C00860,AMBA,Consumidor final
+C00861,AMBA,Consumidor final
+C00862,AMBA,Consumidor final
+C00863,Cuyo,Recurrente
+C00864,NEA,Consumidor final
+C00865,AMBA,Consumidor final
+C00866,AMBA,Recurrente
+C00867,Cuyo,Recurrente
+C00868,Córdoba,Premium
+C00869,AMBA,Recurrente
+C00870,Cuyo,Recurrente
+C00871,AMBA,Recurrente
+C00872,AMBA,Premium
+C00873,Córdoba,Recurrente
+C00874,Patagonia,Consumidor final
+C00875,Córdoba,Consumidor final
+C00876,AMBA,Recurrente
+C00877,Córdoba,Consumidor final
+C00878,Córdoba,Consumidor final
+C00879,Santa Fe,Premium
+C00880,Cuyo,Consumidor final
+C00881,AMBA,Consumidor final
+C00882,Cuyo,Consumidor final
+C00883,Santa Fe,Consumidor final
+C00884,AMBA,Premium
+C00885,Córdoba,Recurrente
+C00886,NOA,Consumidor final
+C00887,NOA,Recurrente
+C00888,AMBA,Consumidor final
+C00889,AMBA,Premium
+C00890,AMBA,Consumidor final
+C00891,AMBA,Recurrente
+C00892,Centro-Buenos Aires,Consumidor final
+C00893,Córdoba,Consumidor final
+C00894,NEA,Consumidor final
+C00895,Patagonia,Consumidor final
+C00896,AMBA,Recurrente
+C00897,Santa Fe,Consumidor final
+C00898,AMBA,Recurrente
+C00899,Cuyo,Consumidor final
+C00900,Córdoba,Consumidor final
+C00901,AMBA,Consumidor final
+C00902,AMBA,Recurrente
+C00903,Santa Fe,Recurrente
+C00904,Centro-Buenos Aires,Consumidor final
+C00905,AMBA,Recurrente
+C00906,AMBA,Consumidor final
+C00907,Centro-Buenos Aires,Recurrente
+C00908,Santa Fe,Premium
+C00909,Centro-Buenos Aires,Consumidor final
+C00910,NOA,Consumidor final
+C00911,AMBA,Consumidor final
+C00912,AMBA,Consumidor final
+C00913,Córdoba,Corporativo
+C00914,NOA,Consumidor final
+C00915,Patagonia,Consumidor final
+C00916,Patagonia,Consumidor final
+C00917,AMBA,Premium
+C00918,AMBA,Consumidor final
+C00919,NEA,Consumidor final
+C00920,NEA,Corporativo
+C00921,Cuyo,Recurrente
+C00922,NOA,Consumidor final
+C00923,AMBA,Consumidor final
+C00924,Córdoba,Consumidor final
+C00925,Cuyo,Recurrente
+C00926,Córdoba,Consumidor final
+C00927,NOA,Consumidor final
+C00928,Cuyo,Consumidor final
+C00929,AMBA,Premium
+C00930,AMBA,Recurrente
+C00931,AMBA,Premium
+C00932,AMBA,Consumidor final
+C00933,Santa Fe,Corporativo
+C00934,Santa Fe,Recurrente
+C00935,Córdoba,Consumidor final
+C00936,Córdoba,Recurrente
+C00937,Centro-Buenos Aires,Recurrente
+C00938,Córdoba,Recurrente
+C00939,AMBA,Recurrente
+C00940,AMBA,Premium
+C00941,Cuyo,Consumidor final
+C00942,NOA,Consumidor final
+C00943,NEA,Consumidor final
+C00944,AMBA,Consumidor final
+C00945,NOA,Consumidor final
+C00946,Córdoba,Consumidor final
+C00947,AMBA,Premium
+C00948,NOA,Consumidor final
+C00949,Cuyo,Consumidor final
+C00950,AMBA,Recurrente
+C00951,AMBA,Consumidor final
+C00952,Córdoba,Consumidor final
+C00953,Córdoba,Consumidor final
+C00954,Patagonia,Consumidor final
+C00955,Cuyo,Corporativo
+C00956,NOA,Consumidor final
+C00957,Córdoba,Consumidor final
+C00958,NOA,Consumidor final
+C00959,Cuyo,Premium
+C00960,Cuyo,Recurrente
+C00961,AMBA,Consumidor final
+C00962,Centro-Buenos Aires,Recurrente
+C00963,Cuyo,Recurrente
+C00964,AMBA,Premium
+C00965,Santa Fe,Consumidor final
+C00966,Córdoba,Recurrente
+C00967,Cuyo,Premium
+C00968,NOA,Consumidor final
+C00969,AMBA,Consumidor final
+C00970,Córdoba,Consumidor final
+C00971,Cuyo,Consumidor final
+C00972,Córdoba,Corporativo
+C00973,Córdoba,Consumidor final
+C00974,Centro-Buenos Aires,Recurrente
+C00975,Centro-Buenos Aires,Recurrente
+C00976,Santa Fe,Consumidor final
+C00977,Centro-Buenos Aires,Consumidor final
+C00978,Cuyo,Consumidor final
+C00979,Santa Fe,Consumidor final
+C00980,AMBA,Consumidor final
+C00981,AMBA,Premium
+C00982,Cuyo,Consumidor final
+C00983,AMBA,Consumidor final
+C00984,Santa Fe,Consumidor final
+C00985,NEA,Consumidor final
+C00986,Centro-Buenos Aires,Recurrente
+C00987,Santa Fe,Recurrente
+C00988,AMBA,Recurrente
+C00989,AMBA,Consumidor final
+C00990,AMBA,Recurrente
+C00991,NOA,Consumidor final
+C00992,AMBA,Consumidor final
+C00993,AMBA,Consumidor final
+C00994,AMBA,Consumidor final
+C00995,Patagonia,Corporativo
+C00996,AMBA,Consumidor final
+C00997,Córdoba,Consumidor final
+C00998,Córdoba,Recurrente
+C00999,AMBA,Consumidor final
+C01000,AMBA,Consumidor final
+C01001,Patagonia,Recurrente
+C01002,Córdoba,Consumidor final
+C01003,Centro-Buenos Aires,Recurrente
+C01004,Córdoba,Consumidor final
+C01005,AMBA,Consumidor final
+C01006,AMBA,Consumidor final
+C01007,AMBA,Premium
+C01008,Centro-Buenos Aires,Recurrente
+C01009,AMBA,Consumidor final
+C01010,Centro-Buenos Aires,Consumidor final
+C01011,Córdoba,Premium
+C01012,AMBA,Corporativo
+C01013,AMBA,Premium
+C01014,AMBA,Consumidor final
+C01015,Cuyo,Consumidor final
+C01016,Centro-Buenos Aires,Recurrente
+C01017,NOA,Premium
+C01018,NEA,Corporativo
+C01019,Córdoba,Consumidor final
+C01020,NOA,Consumidor final
+C01021,AMBA,Consumidor final
+C01022,Córdoba,Recurrente
+C01023,AMBA,Recurrente
+C01024,AMBA,Recurrente
+C01025,NOA,Consumidor final
+C01026,Cuyo,Consumidor final
+C01027,Cuyo,Premium
+C01028,NOA,Premium
+C01029,Santa Fe,Consumidor final
+C01030,AMBA,Recurrente
+C01031,Cuyo,Consumidor final
+C01032,AMBA,Consumidor final
+C01033,Córdoba,Premium
+C01034,Santa Fe,Consumidor final
+C01035,AMBA,Consumidor final
+C01036,NEA,Consumidor final
+C01037,Córdoba,Consumidor final
+C01038,NEA,Recurrente
+C01039,AMBA,Consumidor final
+C01040,Córdoba,Consumidor final
+C01041,Córdoba,Premium
+C01042,AMBA,Consumidor final
+C01043,Santa Fe,Premium
+C01044,Córdoba,Recurrente
+C01045,Córdoba,Recurrente
+C01046,NOA,Premium
+C01047,Cuyo,Consumidor final
+C01048,AMBA,Recurrente
+C01049,AMBA,Premium
+C01050,NOA,Consumidor final
+C01051,Cuyo,Corporativo
+C01052,AMBA,Recurrente
+C01053,Centro-Buenos Aires,Recurrente
+C01054,AMBA,Consumidor final
+C01055,AMBA,Recurrente
+C01056,AMBA,Premium
+C01057,AMBA,Consumidor final
+C01058,AMBA,Recurrente
+C01059,NOA,Consumidor final
+C01060,Córdoba,Consumidor final
+C01061,AMBA,Recurrente
+C01062,Patagonia,Premium
+C01063,Cuyo,Premium
+C01064,Cuyo,Recurrente
+C01065,Cuyo,Consumidor final
+C01066,AMBA,Consumidor final
+C01067,AMBA,Consumidor final
+C01068,NEA,Premium
+C01069,AMBA,Consumidor final
+C01070,Patagonia,Consumidor final
+C01071,AMBA,Consumidor final
+C01072,Córdoba,Premium
+C01073,NOA,Consumidor final
+C01074,NOA,Consumidor final
+C01075,AMBA,Recurrente
+C01076,AMBA,Consumidor final
+C01077,Córdoba,Recurrente
+C01078,AMBA,Consumidor final
+C01079,AMBA,Consumidor final
+C01080,AMBA,Consumidor final
+C01081,Córdoba,Consumidor final
+C01082,Santa Fe,Consumidor final
+C01083,AMBA,Corporativo
+C01084,AMBA,Consumidor final
+C01085,AMBA,Consumidor final
+C01086,Patagonia,Consumidor final
+C01087,AMBA,Consumidor final
+C01088,AMBA,Consumidor final
+C01089,AMBA,Recurrente
+C01090,NEA,Consumidor final
+C01091,AMBA,Consumidor final
+C01092,AMBA,Consumidor final
+C01093,NOA,Premium
+C01094,AMBA,Premium
+C01095,NOA,Consumidor final
+C01096,NOA,Consumidor final
+C01097,NOA,Consumidor final
+C01098,NOA,Consumidor final
+C01099,Córdoba,Consumidor final
+C01100,AMBA,Corporativo
+C01101,Cuyo,Consumidor final
+C01102,AMBA,Premium
+C01103,Centro-Buenos Aires,Consumidor final
+C01104,AMBA,Recurrente
+C01105,Patagonia,Consumidor final
+C01106,AMBA,Recurrente
+C01107,NOA,Corporativo
+C01108,NEA,Consumidor final
+C01109,Córdoba,Premium
+C01110,AMBA,Recurrente
+C01111,Córdoba,Consumidor final
+C01112,AMBA,Consumidor final
+C01113,Santa Fe,Consumidor final
+C01114,Centro-Buenos Aires,Corporativo
+C01115,Centro-Buenos Aires,Recurrente
+C01116,Córdoba,Consumidor final
+C01117,Cuyo,Consumidor final
+C01118,Santa Fe,Consumidor final
+C01119,Cuyo,Consumidor final
+C01120,AMBA,Consumidor final
+C01121,AMBA,Consumidor final
+C01122,Santa Fe,Consumidor final
+C01123,Cuyo,Consumidor final
+C01124,NEA,Recurrente
+C01125,Córdoba,Consumidor final
+C01126,Cuyo,Corporativo
+C01127,Córdoba,Consumidor final
+C01128,Patagonia,Consumidor final
+C01129,Patagonia,Recurrente
+C01130,Cuyo,Consumidor final
+C01131,AMBA,Consumidor final
+C01132,Centro-Buenos Aires,Corporativo
+C01133,Cuyo,Consumidor final
+C01134,AMBA,Consumidor final
+C01135,AMBA,Premium
+C01136,NOA,Recurrente
+C01137,Córdoba,Consumidor final
+C01138,AMBA,Corporativo
+C01139,Santa Fe,Premium
+C01140,Cuyo,Consumidor final
+C01141,NEA,Corporativo
+C01142,Santa Fe,Recurrente
+C01143,AMBA,Consumidor final
+C01144,Santa Fe,Consumidor final
+C01145,AMBA,Premium
+C01146,Santa Fe,Recurrente
+C01147,AMBA,Recurrente
+C01148,Santa Fe,Consumidor final
+C01149,Santa Fe,Recurrente
+C01150,Córdoba,Recurrente
+C01151,AMBA,Recurrente
+C01152,Santa Fe,Consumidor final
+C01153,AMBA,Premium
+C01154,AMBA,Recurrente
+C01155,AMBA,Consumidor final
+C01156,AMBA,Consumidor final
+C01157,Cuyo,Consumidor final
+C01158,Córdoba,Premium
+C01159,AMBA,Recurrente
+C01160,Santa Fe,Recurrente
+C01161,Córdoba,Recurrente
+C01162,Santa Fe,Consumidor final
+C01163,Patagonia,Recurrente
+C01164,AMBA,Recurrente
+C01165,NOA,Consumidor final
+C01166,Patagonia,Premium
+C01167,Centro-Buenos Aires,Consumidor final
+C01168,Cuyo,Consumidor final
+C01169,Santa Fe,Consumidor final
+C01170,NOA,Consumidor final
+C01171,AMBA,Recurrente
+C01172,AMBA,Consumidor final
+C01173,Cuyo,Consumidor final
+C01174,Santa Fe,Consumidor final
+C01175,AMBA,Recurrente
+C01176,Córdoba,Consumidor final
+C01177,Cuyo,Consumidor final
+C01178,NEA,Corporativo
+C01179,NOA,Recurrente
+C01180,AMBA,Consumidor final
+C01181,AMBA,Consumidor final
+C01182,Santa Fe,Consumidor final
+C01183,Santa Fe,Corporativo
+C01184,Santa Fe,Consumidor final
+C01185,AMBA,Recurrente
+C01186,Patagonia,Consumidor final
+C01187,AMBA,Consumidor final
+C01188,Cuyo,Consumidor final
+C01189,Córdoba,Recurrente
+C01190,NOA,Consumidor final
+C01191,Córdoba,Premium
+C01192,AMBA,Consumidor final
+C01193,AMBA,Consumidor final
+C01194,AMBA,Consumidor final
+C01195,AMBA,Premium
+C01196,AMBA,Consumidor final
+C01197,Santa Fe,Consumidor final
+C01198,AMBA,Consumidor final
+C01199,Córdoba,Recurrente
+C01200,AMBA,Recurrente
+C01201,Centro-Buenos Aires,Consumidor final
+C01202,NEA,Recurrente
+C01203,AMBA,Recurrente
+C01204,AMBA,Consumidor final
+C01205,Córdoba,Recurrente
+C01206,AMBA,Recurrente
+C01207,Santa Fe,Recurrente
+C01208,Cuyo,Consumidor final
+C01209,Centro-Buenos Aires,Consumidor final
+C01210,Santa Fe,Corporativo
+C01211,AMBA,Premium
+C01212,Córdoba,Premium
+C01213,Córdoba,Recurrente
+C01214,Cuyo,Consumidor final
+C01215,AMBA,Recurrente
+C01216,AMBA,Consumidor final
+C01217,Santa Fe,Recurrente
+C01218,Córdoba,Corporativo
+C01219,Cuyo,Consumidor final
+C01220,NOA,Premium
+C01221,Córdoba,Recurrente
+C01222,Patagonia,Consumidor final
+C01223,Centro-Buenos Aires,Consumidor final
+C01224,Santa Fe,Recurrente
+C01225,Cuyo,Recurrente
+C01226,Santa Fe,Corporativo
+C01227,AMBA,Consumidor final
+C01228,Patagonia,Recurrente
+C01229,Santa Fe,Consumidor final
+C01230,AMBA,Consumidor final
+C01231,Santa Fe,Consumidor final
+C01232,Centro-Buenos Aires,Consumidor final
+C01233,Santa Fe,Consumidor final
+C01234,Santa Fe,Consumidor final
+C01235,NOA,Recurrente
+C01236,AMBA,Consumidor final
+C01237,Centro-Buenos Aires,Premium
+C01238,NOA,Consumidor final
+C01239,Centro-Buenos Aires,Consumidor final
+C01240,Santa Fe,Consumidor final
+C01241,NOA,Recurrente
+C01242,Cuyo,Consumidor final
+C01243,Centro-Buenos Aires,Consumidor final
+C01244,Santa Fe,Premium
+C01245,AMBA,Consumidor final
+C01246,NOA,Consumidor final
+C01247,NEA,Consumidor final
+C01248,Córdoba,Premium
+C01249,NOA,Consumidor final
+C01250,NOA,Consumidor final
+C01251,NEA,Recurrente
+C01252,Santa Fe,Consumidor final
+C01253,Córdoba,Consumidor final
+C01254,Patagonia,Consumidor final
+C01255,NOA,Recurrente
+C01256,Centro-Buenos Aires,Consumidor final
+C01257,Santa Fe,Consumidor final
+C01258,AMBA,Consumidor final
+C01259,Santa Fe,Consumidor final
+C01260,Cuyo,Consumidor final
+C01261,AMBA,Consumidor final
+C01262,Córdoba,Consumidor final
+C01263,AMBA,Consumidor final
+C01264,Patagonia,Consumidor final
+C01265,Patagonia,Corporativo
+C01266,Santa Fe,Premium
+C01267,NOA,Premium
+C01268,Patagonia,Consumidor final
+C01269,AMBA,Consumidor final
+C01270,AMBA,Consumidor final
+C01271,Córdoba,Recurrente
+C01272,AMBA,Recurrente
+C01273,Santa Fe,Recurrente
+C01274,Centro-Buenos Aires,Consumidor final
+C01275,AMBA,Recurrente
+C01276,AMBA,Consumidor final
+C01277,Córdoba,Premium
+C01278,AMBA,Consumidor final
+C01279,Santa Fe,Recurrente
+C01280,Centro-Buenos Aires,Recurrente
+C01281,NOA,Premium
+C01282,Cuyo,Consumidor final
+C01283,Centro-Buenos Aires,Recurrente
+C01284,AMBA,Recurrente
+C01285,Santa Fe,Premium
+C01286,AMBA,Consumidor final
+C01287,Córdoba,Premium
+C01288,NOA,Recurrente
+C01289,AMBA,Recurrente
+C01290,Córdoba,Consumidor final
+C01291,NEA,Consumidor final
+C01292,Cuyo,Consumidor final
+C01293,AMBA,Consumidor final
+C01294,AMBA,Consumidor final
+C01295,AMBA,Recurrente
+C01296,NOA,Recurrente
+C01297,NOA,Consumidor final
+C01298,Córdoba,Corporativo
+C01299,Córdoba,Consumidor final
+C01300,AMBA,Consumidor final
+C01301,Córdoba,Consumidor final
+C01302,Cuyo,Consumidor final
+C01303,Cuyo,Premium
+C01304,Centro-Buenos Aires,Premium
+C01305,AMBA,Consumidor final
+C01306,Patagonia,Consumidor final
+C01307,AMBA,Consumidor final
+C01308,Córdoba,Recurrente
+C01309,Santa Fe,Consumidor final
+C01310,AMBA,Recurrente
+C01311,Córdoba,Consumidor final
+C01312,Santa Fe,Recurrente
+C01313,AMBA,Recurrente
+C01314,Cuyo,Consumidor final
+C01315,Córdoba,Consumidor final
+C01316,Córdoba,Consumidor final
+C01317,Córdoba,Consumidor final
+C01318,AMBA,Consumidor final
+C01319,AMBA,Consumidor final
+C01320,AMBA,Consumidor final
+C01321,AMBA,Recurrente
+C01322,Cuyo,Consumidor final
+C01323,NOA,Consumidor final
+C01324,AMBA,Recurrente
+C01325,AMBA,Consumidor final
+C01326,Centro-Buenos Aires,Consumidor final
+C01327,NOA,Consumidor final
+C01328,AMBA,Consumidor final
+C01329,AMBA,Corporativo
+C01330,Córdoba,Consumidor final
+C01331,Córdoba,Recurrente
+C01332,NOA,Consumidor final
+C01333,Centro-Buenos Aires,Consumidor final
+C01334,Córdoba,Recurrente
+C01335,NOA,Consumidor final
+C01336,Santa Fe,Recurrente
+C01337,Córdoba,Recurrente
+C01338,AMBA,Recurrente
+C01339,NOA,Consumidor final
+C01340,Patagonia,Recurrente
+C01341,NOA,Premium
+C01342,Córdoba,Recurrente
+C01343,AMBA,Premium
+C01344,Cuyo,Consumidor final
+C01345,Córdoba,Recurrente
+C01346,NEA,Consumidor final
+C01347,Cuyo,Consumidor final
+C01348,Centro-Buenos Aires,Consumidor final
+C01349,NOA,Recurrente
+C01350,NOA,Premium
+C01351,NOA,Recurrente
+C01352,AMBA,Consumidor final
+C01353,AMBA,Consumidor final
+C01354,Córdoba,Recurrente
+C01355,Santa Fe,Consumidor final
+C01356,NOA,Consumidor final
+C01357,Córdoba,Corporativo
+C01358,AMBA,Consumidor final
+C01359,AMBA,Premium
+C01360,NEA,Recurrente
+C01361,Córdoba,Consumidor final
+C01362,Patagonia,Consumidor final
+C01363,AMBA,Corporativo
+C01364,Santa Fe,Consumidor final
+C01365,AMBA,Consumidor final
+C01366,Córdoba,Consumidor final
+C01367,AMBA,Consumidor final
+C01368,NEA,Consumidor final
+C01369,Córdoba,Corporativo
+C01370,Centro-Buenos Aires,Consumidor final
+C01371,Córdoba,Recurrente
+C01372,AMBA,Premium
+C01373,AMBA,Corporativo
+C01374,Santa Fe,Consumidor final
+C01375,AMBA,Recurrente
+C01376,Patagonia,Consumidor final
+C01377,Córdoba,Consumidor final
+C01378,Córdoba,Consumidor final
+C01379,AMBA,Consumidor final
+C01380,NOA,Recurrente
+C01381,AMBA,Corporativo
+C01382,Centro-Buenos Aires,Corporativo
+C01383,Patagonia,Recurrente
+C01384,AMBA,Consumidor final
+C01385,Santa Fe,Premium
+C01386,AMBA,Consumidor final
+C01387,Córdoba,Consumidor final
+C01388,Cuyo,Consumidor final
+C01389,Córdoba,Consumidor final
+C01390,NOA,Recurrente
+C01391,NOA,Consumidor final
+C01392,NOA,Premium
+C01393,Córdoba,Consumidor final
+C01394,AMBA,Recurrente
+C01395,AMBA,Recurrente
+C01396,NEA,Recurrente
+C01397,Cuyo,Consumidor final
+C01398,Córdoba,Recurrente
+C01399,Córdoba,Corporativo
+C01400,Patagonia,Consumidor final
+C01401,Patagonia,Consumidor final
+C01402,AMBA,Consumidor final
+C01403,Patagonia,Consumidor final
+C01404,AMBA,Recurrente
+C01405,AMBA,Recurrente
+C01406,Cuyo,Consumidor final
+C01407,AMBA,Recurrente
+C01408,NEA,Consumidor final
+C01409,Patagonia,Consumidor final
+C01410,Cuyo,Consumidor final
+C01411,AMBA,Consumidor final
+C01412,AMBA,Recurrente
+C01413,Santa Fe,Consumidor final
+C01414,AMBA,Consumidor final
+C01415,Santa Fe,Recurrente
+C01416,Patagonia,Consumidor final
+C01417,AMBA,Consumidor final
+C01418,AMBA,Consumidor final
+C01419,NEA,Consumidor final
+C01420,AMBA,Consumidor final
+C01421,Centro-Buenos Aires,Recurrente
+C01422,Patagonia,Consumidor final
+C01423,Centro-Buenos Aires,Recurrente
+C01424,Córdoba,Consumidor final
+C01425,Córdoba,Consumidor final
+C01426,Centro-Buenos Aires,Recurrente
+C01427,AMBA,Consumidor final
+C01428,Patagonia,Consumidor final
+C01429,Cuyo,Recurrente
+C01430,NOA,Corporativo
+C01431,AMBA,Consumidor final
+C01432,AMBA,Recurrente
+C01433,Córdoba,Premium
+C01434,Centro-Buenos Aires,Recurrente
+C01435,Córdoba,Consumidor final
+C01436,AMBA,Consumidor final
+C01437,AMBA,Consumidor final
+C01438,Córdoba,Recurrente
+C01439,NEA,Premium
+C01440,NOA,Recurrente
+C01441,Centro-Buenos Aires,Consumidor final
+C01442,NEA,Consumidor final
+C01443,Córdoba,Consumidor final
+C01444,Cuyo,Consumidor final
+C01445,AMBA,Consumidor final
+C01446,AMBA,Consumidor final
+C01447,Santa Fe,Recurrente
+C01448,Córdoba,Consumidor final
+C01449,NOA,Corporativo
+C01450,AMBA,Consumidor final
+C01451,Patagonia,Consumidor final
+C01452,Córdoba,Consumidor final
+C01453,Córdoba,Premium
+C01454,AMBA,Consumidor final
+C01455,Santa Fe,Recurrente
+C01456,Córdoba,Recurrente
+C01457,AMBA,Consumidor final
+C01458,NOA,Consumidor final
+C01459,Patagonia,Recurrente
+C01460,AMBA,Consumidor final
+C01461,Cuyo,Consumidor final
+C01462,Patagonia,Recurrente
+C01463,AMBA,Consumidor final
+C01464,AMBA,Recurrente
+C01465,Centro-Buenos Aires,Consumidor final
+C01466,Córdoba,Recurrente
+C01467,NOA,Corporativo
+C01468,Santa Fe,Consumidor final
+C01469,AMBA,Recurrente
+C01470,AMBA,Recurrente
+C01471,AMBA,Recurrente
+C01472,Patagonia,Premium
+C01473,Córdoba,Consumidor final
+C01474,Santa Fe,Recurrente
+C01475,AMBA,Consumidor final
+C01476,AMBA,Recurrente
+C01477,AMBA,Recurrente
+C01478,Córdoba,Consumidor final
+C01479,AMBA,Premium
+C01480,Cuyo,Premium
+C01481,Córdoba,Premium
+C01482,Córdoba,Consumidor final
+C01483,Patagonia,Consumidor final
+C01484,AMBA,Consumidor final
+C01485,Córdoba,Premium
+C01486,Patagonia,Consumidor final
+C01487,Córdoba,Consumidor final
+C01488,Córdoba,Consumidor final
+C01489,AMBA,Recurrente
+C01490,Cuyo,Consumidor final
+C01491,AMBA,Consumidor final
+C01492,NOA,Consumidor final
+C01493,NOA,Consumidor final
+C01494,Santa Fe,Recurrente
+C01495,Patagonia,Recurrente
+C01496,Centro-Buenos Aires,Premium
+C01497,AMBA,Recurrente
+C01498,Centro-Buenos Aires,Consumidor final
+C01499,Patagonia,Corporativo
+C01500,Córdoba,Consumidor final
+C01501,Santa Fe,Consumidor final
+C01502,Patagonia,Recurrente
+C01503,Cuyo,Premium
+C01504,Córdoba,Consumidor final
+C01505,Córdoba,Recurrente
+C01506,Cuyo,Recurrente
+C01507,Centro-Buenos Aires,Consumidor final
+C01508,Córdoba,Recurrente
+C01509,Córdoba,Corporativo
+C01510,Córdoba,Consumidor final
+C01511,Cuyo,Consumidor final
+C01512,Cuyo,Consumidor final
+C01513,Córdoba,Consumidor final
+C01514,Patagonia,Consumidor final
+C01515,Cuyo,Recurrente
+C01516,AMBA,Consumidor final
+C01517,Córdoba,Consumidor final
+C01518,AMBA,Consumidor final
+C01519,Patagonia,Consumidor final
+C01520,Santa Fe,Consumidor final
+C01521,Patagonia,Consumidor final
+C01522,AMBA,Premium
+C01523,Santa Fe,Consumidor final
+C01524,Santa Fe,Recurrente
+C01525,Patagonia,Consumidor final
+C01526,Centro-Buenos Aires,Consumidor final
+C01527,NOA,Consumidor final
+C01528,AMBA,Corporativo
+C01529,Córdoba,Consumidor final
+C01530,Córdoba,Consumidor final
+C01531,NOA,Premium
+C01532,NEA,Recurrente
+C01533,AMBA,Recurrente
+C01534,Centro-Buenos Aires,Consumidor final
+C01535,Centro-Buenos Aires,Consumidor final
+C01536,AMBA,Recurrente
+C01537,AMBA,Consumidor final
+C01538,AMBA,Consumidor final
+C01539,Córdoba,Consumidor final
+C01540,Santa Fe,Consumidor final
+C01541,AMBA,Consumidor final
+C01542,Córdoba,Consumidor final
+C01543,Córdoba,Consumidor final
+C01544,Córdoba,Consumidor final
+C01545,Córdoba,Premium
+C01546,Centro-Buenos Aires,Consumidor final
+C01547,Córdoba,Recurrente
+C01548,NEA,Recurrente
+C01549,AMBA,Consumidor final
+C01550,Santa Fe,Consumidor final
+C01551,AMBA,Recurrente
+C01552,Santa Fe,Recurrente
+C01553,AMBA,Consumidor final
+C01554,Santa Fe,Recurrente
+C01555,Patagonia,Consumidor final
+C01556,Córdoba,Consumidor final
+C01557,NOA,Consumidor final
+C01558,AMBA,Recurrente
+C01559,NEA,Consumidor final
+C01560,AMBA,Consumidor final
+C01561,AMBA,Consumidor final
+C01562,Patagonia,Consumidor final
+C01563,NEA,Consumidor final
+C01564,AMBA,Consumidor final
+C01565,AMBA,Consumidor final
+C01566,NEA,Consumidor final
+C01567,AMBA,Consumidor final
+C01568,AMBA,Recurrente
+C01569,Cuyo,Consumidor final
+C01570,Centro-Buenos Aires,Consumidor final
+C01571,Santa Fe,Corporativo
+C01572,Córdoba,Recurrente
+C01573,AMBA,Corporativo
+C01574,AMBA,Consumidor final
+C01575,Patagonia,Recurrente
+C01576,NEA,Consumidor final
+C01577,Córdoba,Consumidor final
+C01578,NOA,Recurrente
+C01579,Cuyo,Consumidor final
+C01580,Santa Fe,Consumidor final
+C01581,AMBA,Recurrente
+C01582,Centro-Buenos Aires,Consumidor final
+C01583,Santa Fe,Consumidor final
+C01584,AMBA,Consumidor final
+C01585,AMBA,Consumidor final
+C01586,NOA,Consumidor final
+C01587,Córdoba,Consumidor final
+C01588,Santa Fe,Consumidor final
+C01589,AMBA,Consumidor final
+C01590,Santa Fe,Consumidor final
+C01591,Centro-Buenos Aires,Recurrente
+C01592,Santa Fe,Consumidor final
+C01593,Cuyo,Recurrente
+C01594,NEA,Consumidor final
+C01595,NOA,Consumidor final
+C01596,Santa Fe,Recurrente
+C01597,AMBA,Consumidor final
+C01598,AMBA,Consumidor final
+C01599,Patagonia,Consumidor final
+C01600,Centro-Buenos Aires,Consumidor final
+C01601,Córdoba,Consumidor final
+C01602,AMBA,Consumidor final
+C01603,Centro-Buenos Aires,Recurrente
+C01604,AMBA,Recurrente
+C01605,Cuyo,Recurrente
+C01606,AMBA,Consumidor final
+C01607,Cuyo,Premium
+C01608,Córdoba,Recurrente
+C01609,Córdoba,Premium
+C01610,Patagonia,Consumidor final
+C01611,Centro-Buenos Aires,Recurrente
+C01612,AMBA,Consumidor final
+C01613,AMBA,Recurrente
+C01614,Cuyo,Recurrente
+C01615,AMBA,Recurrente
+C01616,Córdoba,Recurrente
+C01617,Santa Fe,Consumidor final
+C01618,Patagonia,Consumidor final
+C01619,AMBA,Recurrente
+C01620,AMBA,Consumidor final
+C01621,Centro-Buenos Aires,Recurrente
+C01622,Patagonia,Premium
+C01623,Santa Fe,Premium
+C01624,Patagonia,Recurrente
+C01625,Centro-Buenos Aires,Premium
+C01626,Cuyo,Consumidor final
+C01627,AMBA,Consumidor final
+C01628,NOA,Consumidor final
+C01629,NEA,Recurrente
+C01630,Santa Fe,Recurrente
+C01631,Centro-Buenos Aires,Premium
+C01632,NEA,Recurrente
+C01633,Cuyo,Consumidor final
+C01634,Córdoba,Premium
+C01635,Cuyo,Premium
+C01636,AMBA,Consumidor final
+C01637,AMBA,Consumidor final
+C01638,AMBA,Consumidor final
+C01639,AMBA,Consumidor final
+C01640,AMBA,Premium
+C01641,Centro-Buenos Aires,Consumidor final
+C01642,Santa Fe,Consumidor final
+C01643,AMBA,Recurrente
+C01644,AMBA,Recurrente
+C01645,Patagonia,Consumidor final
+C01646,Centro-Buenos Aires,Consumidor final
+C01647,NEA,Recurrente
+C01648,NOA,Consumidor final
+C01649,Patagonia,Consumidor final
+C01650,Córdoba,Consumidor final
+C01651,Córdoba,Recurrente
+C01652,Patagonia,Recurrente
+C01653,NOA,Consumidor final
+C01654,Córdoba,Consumidor final
+C01655,Córdoba,Recurrente
+C01656,Cuyo,Premium
+C01657,Cuyo,Premium
+C01658,Córdoba,Consumidor final
+C01659,AMBA,Premium
+C01660,NOA,Consumidor final
+C01661,NOA,Premium
+C01662,Santa Fe,Consumidor final
+C01663,Santa Fe,Recurrente
+C01664,AMBA,Consumidor final
+C01665,AMBA,Corporativo
+C01666,Patagonia,Premium
+C01667,Santa Fe,Consumidor final
+C01668,Córdoba,Consumidor final
+C01669,AMBA,Recurrente
+C01670,AMBA,Consumidor final
+C01671,Cuyo,Corporativo
+C01672,NOA,Recurrente
+C01673,Patagonia,Recurrente
+C01674,NEA,Consumidor final
+C01675,NOA,Consumidor final
+C01676,AMBA,Recurrente
+C01677,AMBA,Recurrente
+C01678,NOA,Premium
+C01679,Centro-Buenos Aires,Consumidor final
+C01680,Córdoba,Premium
+C01681,AMBA,Consumidor final
+C01682,Santa Fe,Premium
+C01683,NOA,Consumidor final
+C01684,NEA,Recurrente
+C01685,NOA,Recurrente
+C01686,Santa Fe,Recurrente
+C01687,Córdoba,Consumidor final
+C01688,Centro-Buenos Aires,Consumidor final
+C01689,Santa Fe,Recurrente
+C01690,Santa Fe,Premium
+C01691,Córdoba,Consumidor final
+C01692,Cuyo,Recurrente
+C01693,AMBA,Recurrente
+C01694,AMBA,Recurrente
+C01695,Centro-Buenos Aires,Consumidor final
+C01696,Cuyo,Recurrente
+C01697,Córdoba,Recurrente
+C01698,AMBA,Consumidor final
+C01699,AMBA,Premium
+C01700,Centro-Buenos Aires,Premium
+C01701,AMBA,Recurrente
+C01702,Patagonia,Recurrente
+C01703,Centro-Buenos Aires,Recurrente
+C01704,NOA,Consumidor final
+C01705,AMBA,Recurrente
+C01706,AMBA,Premium
+C01707,AMBA,Consumidor final
+C01708,Córdoba,Consumidor final
+C01709,NOA,Recurrente
+C01710,NEA,Recurrente
+C01711,Santa Fe,Recurrente
+C01712,NOA,Recurrente
+C01713,Córdoba,Consumidor final
+C01714,AMBA,Consumidor final
+C01715,Córdoba,Consumidor final
+C01716,Patagonia,Consumidor final
+C01717,NOA,Recurrente
+C01718,Santa Fe,Recurrente
+C01719,AMBA,Consumidor final
+C01720,AMBA,Consumidor final
+C01721,Cuyo,Recurrente
+C01722,AMBA,Consumidor final
+C01723,NOA,Consumidor final
+C01724,Cuyo,Consumidor final
+C01725,AMBA,Consumidor final
+C01726,Córdoba,Consumidor final
+C01727,AMBA,Consumidor final
+C01728,Centro-Buenos Aires,Recurrente
+C01729,Cuyo,Consumidor final
+C01730,Patagonia,Premium
+C01731,Cuyo,Consumidor final
+C01732,Córdoba,Recurrente
+C01733,AMBA,Consumidor final
+C01734,Córdoba,Consumidor final
+C01735,Cuyo,Consumidor final
+C01736,Cuyo,Recurrente
+C01737,AMBA,Consumidor final
+C01738,NEA,Premium
+C01739,AMBA,Consumidor final
+C01740,AMBA,Consumidor final
+C01741,Córdoba,Consumidor final
+C01742,Santa Fe,Corporativo
+C01743,Córdoba,Consumidor final
+C01744,NOA,Consumidor final
+C01745,NOA,Consumidor final
+C01746,Córdoba,Recurrente
+C01747,AMBA,Consumidor final
+C01748,NEA,Consumidor final
+C01749,Centro-Buenos Aires,Recurrente
+C01750,NEA,Consumidor final
+C01751,Córdoba,Recurrente
+C01752,Córdoba,Consumidor final
+C01753,Centro-Buenos Aires,Recurrente
+C01754,NEA,Consumidor final
+C01755,NOA,Consumidor final
+C01756,AMBA,Recurrente
+C01757,Córdoba,Recurrente
+C01758,Córdoba,Consumidor final
+C01759,Córdoba,Consumidor final
+C01760,AMBA,Premium
+C01761,Córdoba,Consumidor final
+C01762,Córdoba,Consumidor final
+C01763,Patagonia,Consumidor final
+C01764,Centro-Buenos Aires,Recurrente
+C01765,AMBA,Premium
+C01766,Cuyo,Corporativo
+C01767,Cuyo,Premium
+C01768,AMBA,Consumidor final
+C01769,Cuyo,Recurrente
+C01770,AMBA,Recurrente
+C01771,Centro-Buenos Aires,Consumidor final
+C01772,AMBA,Consumidor final
+C01773,AMBA,Consumidor final
+C01774,Patagonia,Consumidor final
+C01775,NOA,Consumidor final
+C01776,Santa Fe,Premium
+C01777,AMBA,Consumidor final
+C01778,AMBA,Consumidor final
+C01779,NEA,Recurrente
+C01780,NOA,Consumidor final
+C01781,NOA,Consumidor final
+C01782,AMBA,Premium
+C01783,Santa Fe,Premium
+C01784,Córdoba,Consumidor final
+C01785,Santa Fe,Consumidor final
+C01786,Santa Fe,Consumidor final
+C01787,Cuyo,Premium
+C01788,Centro-Buenos Aires,Consumidor final
+C01789,NOA,Consumidor final
+C01790,Santa Fe,Corporativo
+C01791,Cuyo,Consumidor final
+C01792,NEA,Consumidor final
+C01793,Santa Fe,Consumidor final
+C01794,AMBA,Premium
+C01795,AMBA,Consumidor final
+C01796,NEA,Consumidor final
+C01797,Santa Fe,Premium
+C01798,AMBA,Recurrente
+C01799,Centro-Buenos Aires,Consumidor final
+C01800,AMBA,Consumidor final
+C01801,NEA,Consumidor final
+C01802,Córdoba,Consumidor final
+C01803,Centro-Buenos Aires,Consumidor final
+C01804,Centro-Buenos Aires,Consumidor final
+C01805,Cuyo,Recurrente
+C01806,NOA,Consumidor final
+C01807,NEA,Consumidor final
+C01808,Santa Fe,Consumidor final
+C01809,NOA,Consumidor final
+C01810,AMBA,Consumidor final
+C01811,Santa Fe,Consumidor final
+C01812,Cuyo,Consumidor final
+C01813,Centro-Buenos Aires,Consumidor final
+C01814,Santa Fe,Consumidor final
+C01815,AMBA,Consumidor final
+C01816,AMBA,Consumidor final
+C01817,NOA,Premium
+C01818,Santa Fe,Corporativo
+C01819,Santa Fe,Consumidor final
+C01820,AMBA,Consumidor final
+C01821,AMBA,Consumidor final
+C01822,Santa Fe,Consumidor final
+C01823,Córdoba,Recurrente
+C01824,NOA,Consumidor final
+C01825,Cuyo,Consumidor final
+C01826,Córdoba,Premium
+C01827,NOA,Premium
+C01828,AMBA,Premium
+C01829,Santa Fe,Recurrente
+C01830,AMBA,Premium
+C01831,Córdoba,Consumidor final
+C01832,Santa Fe,Consumidor final
+C01833,AMBA,Consumidor final
+C01834,AMBA,Consumidor final
+C01835,AMBA,Consumidor final
+C01836,Córdoba,Consumidor final
+C01837,Centro-Buenos Aires,Consumidor final
+C01838,Cuyo,Consumidor final
+C01839,Cuyo,Premium
+C01840,Córdoba,Consumidor final
+C01841,Córdoba,Consumidor final
+C01842,Cuyo,Recurrente
+C01843,Córdoba,Consumidor final
+C01844,NOA,Consumidor final
+C01845,NEA,Consumidor final
+C01846,AMBA,Consumidor final
+C01847,Santa Fe,Recurrente
+C01848,Centro-Buenos Aires,Premium
+C01849,NOA,Consumidor final
+C01850,Patagonia,Consumidor final
+C01851,NEA,Recurrente
+C01852,AMBA,Consumidor final
+C01853,NOA,Consumidor final
+C01854,Patagonia,Consumidor final
+C01855,AMBA,Recurrente
+C01856,Santa Fe,Consumidor final
+C01857,AMBA,Consumidor final
+C01858,Córdoba,Premium
+C01859,Santa Fe,Consumidor final
+C01860,NOA,Consumidor final
+C01861,Córdoba,Consumidor final
+C01862,AMBA,Corporativo
+C01863,Santa Fe,Consumidor final
+C01864,Santa Fe,Recurrente
+C01865,AMBA,Premium
+C01866,Córdoba,Consumidor final
+C01867,Centro-Buenos Aires,Consumidor final
+C01868,AMBA,Consumidor final
+C01869,Centro-Buenos Aires,Consumidor final
+C01870,Patagonia,Consumidor final
+C01871,AMBA,Consumidor final
+C01872,NOA,Consumidor final
+C01873,AMBA,Premium
+C01874,Santa Fe,Consumidor final
+C01875,Córdoba,Consumidor final
+C01876,AMBA,Consumidor final
+C01877,Córdoba,Recurrente
+C01878,NEA,Recurrente
+C01879,Córdoba,Premium
+C01880,AMBA,Recurrente
+C01881,Córdoba,Premium
+C01882,NOA,Premium
+C01883,Córdoba,Recurrente
+C01884,Córdoba,Consumidor final
+C01885,Córdoba,Consumidor final
+C01886,Cuyo,Consumidor final
+C01887,Cuyo,Premium
+C01888,Patagonia,Premium
+C01889,AMBA,Consumidor final
+C01890,Cuyo,Premium
+C01891,AMBA,Consumidor final
+C01892,AMBA,Consumidor final
+C01893,Córdoba,Recurrente
+C01894,Centro-Buenos Aires,Corporativo
+C01895,Patagonia,Consumidor final
+C01896,Santa Fe,Recurrente
+C01897,AMBA,Consumidor final
+C01898,NEA,Consumidor final
+C01899,Centro-Buenos Aires,Premium
+C01900,Santa Fe,Consumidor final
+C01901,Santa Fe,Consumidor final
+C01902,Santa Fe,Corporativo
+C01903,AMBA,Premium
+C01904,NOA,Premium
+C01905,Santa Fe,Consumidor final
+C01906,AMBA,Premium
+C01907,Santa Fe,Consumidor final
+C01908,AMBA,Consumidor final
+C01909,Centro-Buenos Aires,Consumidor final
+C01910,AMBA,Recurrente
+C01911,NOA,Consumidor final
+C01912,Centro-Buenos Aires,Premium
+C01913,Córdoba,Consumidor final
+C01914,Cuyo,Consumidor final
+C01915,Centro-Buenos Aires,Consumidor final
+C01916,Córdoba,Recurrente
+C01917,Santa Fe,Consumidor final
+C01918,Patagonia,Consumidor final
+C01919,Córdoba,Corporativo
+C01920,Cuyo,Consumidor final
+C01921,Córdoba,Recurrente
+C01922,AMBA,Premium
+C01923,NEA,Consumidor final
+C01924,AMBA,Consumidor final
+C01925,Córdoba,Consumidor final
+C01926,Córdoba,Recurrente
+C01927,AMBA,Consumidor final
+C01928,Santa Fe,Recurrente
+C01929,AMBA,Recurrente
+C01930,AMBA,Consumidor final
+C01931,AMBA,Recurrente
+C01932,Córdoba,Premium
+C01933,Patagonia,Consumidor final
+C01934,NOA,Consumidor final
+C01935,Cuyo,Recurrente
+C01936,NOA,Consumidor final
+C01937,AMBA,Recurrente
+C01938,Córdoba,Recurrente
+C01939,Cuyo,Consumidor final
+C01940,Centro-Buenos Aires,Premium
+C01941,AMBA,Premium
+C01942,NOA,Consumidor final
+C01943,Córdoba,Consumidor final
+C01944,AMBA,Consumidor final
+C01945,NOA,Recurrente
+C01946,AMBA,Premium
+C01947,AMBA,Recurrente
+C01948,Santa Fe,Recurrente
+C01949,AMBA,Consumidor final
+C01950,AMBA,Consumidor final
+C01951,Santa Fe,Consumidor final
+C01952,Córdoba,Recurrente
+C01953,AMBA,Consumidor final
+C01954,AMBA,Recurrente
+C01955,AMBA,Consumidor final
+C01956,Centro-Buenos Aires,Recurrente
+C01957,Cuyo,Consumidor final
+C01958,Córdoba,Consumidor final
+C01959,Córdoba,Consumidor final
+C01960,Córdoba,Consumidor final
+C01961,AMBA,Consumidor final
+C01962,AMBA,Consumidor final
+C01963,NOA,Consumidor final
+C01964,AMBA,Consumidor final
+C01965,Cuyo,Recurrente
+C01966,AMBA,Corporativo
+C01967,Patagonia,Recurrente
+C01968,NOA,Consumidor final
+C01969,Centro-Buenos Aires,Consumidor final
+C01970,AMBA,Consumidor final
+C01971,AMBA,Recurrente
+C01972,AMBA,Premium
+C01973,AMBA,Premium
+C01974,AMBA,Consumidor final
+C01975,Cuyo,Consumidor final
+C01976,AMBA,Consumidor final
+C01977,Centro-Buenos Aires,Recurrente
+C01978,NOA,Recurrente
+C01979,Centro-Buenos Aires,Recurrente
+C01980,NOA,Premium
+C01981,Centro-Buenos Aires,Premium
+C01982,AMBA,Recurrente
+C01983,Córdoba,Recurrente
+C01984,Santa Fe,Consumidor final
+C01985,AMBA,Consumidor final
+C01986,Cuyo,Consumidor final
+C01987,Cuyo,Consumidor final
+C01988,AMBA,Corporativo
+C01989,Córdoba,Recurrente
+C01990,NOA,Consumidor final
+C01991,Santa Fe,Recurrente
+C01992,Centro-Buenos Aires,Consumidor final
+C01993,Córdoba,Corporativo
+C01994,AMBA,Consumidor final
+C01995,NEA,Recurrente
+C01996,Santa Fe,Consumidor final
+C01997,AMBA,Recurrente
+C01998,NOA,Recurrente
+C01999,Santa Fe,Consumidor final
+C02000,AMBA,Consumidor final
+C02001,Cuyo,Consumidor final
+C02002,Córdoba,Recurrente
+C02003,AMBA,Consumidor final
+C02004,Cuyo,Consumidor final
+C02005,AMBA,Consumidor final
+C02006,AMBA,Consumidor final
+C02007,AMBA,Consumidor final
+C02008,AMBA,Consumidor final
+C02009,Centro-Buenos Aires,Premium
+C02010,Santa Fe,Recurrente
+C02011,NOA,Premium
+C02012,Centro-Buenos Aires,Premium
+C02013,AMBA,Consumidor final
+C02014,AMBA,Consumidor final
+C02015,AMBA,Premium
+C02016,Cuyo,Corporativo
+C02017,AMBA,Consumidor final
+C02018,Santa Fe,Consumidor final
+C02019,Córdoba,Premium
+C02020,Centro-Buenos Aires,Consumidor final
+C02021,AMBA,Consumidor final
+C02022,AMBA,Recurrente
+C02023,AMBA,Consumidor final
+C02024,Patagonia,Recurrente
+C02025,Cuyo,Consumidor final
+C02026,Santa Fe,Consumidor final
+C02027,NOA,Recurrente
+C02028,NOA,Consumidor final
+C02029,AMBA,Premium
+C02030,Patagonia,Premium
+C02031,Córdoba,Premium
+C02032,Córdoba,Consumidor final
+C02033,Centro-Buenos Aires,Recurrente
+C02034,Córdoba,Premium
+C02035,AMBA,Consumidor final
+C02036,Córdoba,Consumidor final
+C02037,NOA,Recurrente
+C02038,Patagonia,Recurrente
+C02039,Cuyo,Premium
+C02040,AMBA,Consumidor final
+C02041,Santa Fe,Consumidor final
+C02042,Córdoba,Recurrente
+C02043,AMBA,Consumidor final
+C02044,Cuyo,Consumidor final
+C02045,Santa Fe,Premium
+C02046,Centro-Buenos Aires,Consumidor final
+C02047,NOA,Consumidor final
+C02048,Santa Fe,Premium
+C02049,NOA,Recurrente
+C02050,Santa Fe,Consumidor final
+C02051,Patagonia,Consumidor final
+C02052,AMBA,Consumidor final
+C02053,Centro-Buenos Aires,Consumidor final
+C02054,AMBA,Recurrente
+C02055,AMBA,Consumidor final
+C02056,Santa Fe,Recurrente
+C02057,AMBA,Recurrente
+C02058,Santa Fe,Consumidor final
+C02059,Centro-Buenos Aires,Consumidor final
+C02060,Córdoba,Consumidor final
+C02061,Patagonia,Consumidor final
+C02062,NEA,Premium
+C02063,Córdoba,Consumidor final
+C02064,AMBA,Consumidor final
+C02065,Córdoba,Consumidor final
+C02066,Cuyo,Consumidor final
+C02067,Santa Fe,Premium
+C02068,Cuyo,Recurrente
+C02069,Patagonia,Corporativo
+C02070,AMBA,Consumidor final
+C02071,Santa Fe,Premium
+C02072,AMBA,Consumidor final
+C02073,Córdoba,Recurrente
+C02074,Santa Fe,Consumidor final
+C02075,NOA,Consumidor final
+C02076,AMBA,Premium
+C02077,Santa Fe,Consumidor final
+C02078,AMBA,Consumidor final
+C02079,Patagonia,Consumidor final
+C02080,Patagonia,Consumidor final
+C02081,NOA,Consumidor final
+C02082,Centro-Buenos Aires,Recurrente
+C02083,Cuyo,Consumidor final
+C02084,NOA,Premium
+C02085,Santa Fe,Consumidor final
+C02086,AMBA,Premium
+C02087,Cuyo,Consumidor final
+C02088,AMBA,Recurrente
+C02089,Santa Fe,Consumidor final
+C02090,Córdoba,Premium
+C02091,AMBA,Consumidor final
+C02092,AMBA,Consumidor final
+C02093,Córdoba,Consumidor final
+C02094,Santa Fe,Recurrente
+C02095,Patagonia,Consumidor final
+C02096,AMBA,Consumidor final
+C02097,Santa Fe,Consumidor final
+C02098,Santa Fe,Consumidor final
+C02099,AMBA,Recurrente
+C02100,NOA,Recurrente
+C02101,Centro-Buenos Aires,Recurrente
+C02102,Córdoba,Consumidor final
+C02103,Córdoba,Consumidor final
+C02104,AMBA,Consumidor final
+C02105,NOA,Recurrente
+C02106,NOA,Consumidor final
+C02107,Santa Fe,Recurrente
+C02108,Córdoba,Consumidor final
+C02109,NOA,Consumidor final
+C02110,AMBA,Recurrente
+C02111,Cuyo,Consumidor final
+C02112,Cuyo,Corporativo
+C02113,AMBA,Recurrente
+C02114,Patagonia,Corporativo
+C02115,AMBA,Consumidor final
+C02116,Santa Fe,Consumidor final
+C02117,AMBA,Corporativo
+C02118,Santa Fe,Consumidor final
+C02119,NOA,Consumidor final
+C02120,AMBA,Consumidor final
+C02121,NOA,Consumidor final
+C02122,AMBA,Consumidor final
+C02123,Cuyo,Recurrente
+C02124,AMBA,Consumidor final
+C02125,Cuyo,Recurrente
+C02126,Patagonia,Consumidor final
+C02127,AMBA,Recurrente
+C02128,AMBA,Corporativo
+C02129,NEA,Consumidor final
+C02130,Santa Fe,Consumidor final
+C02131,Centro-Buenos Aires,Consumidor final
+C02132,Córdoba,Consumidor final
+C02133,Patagonia,Consumidor final
+C02134,AMBA,Consumidor final
+C02135,AMBA,Consumidor final
+C02136,Córdoba,Consumidor final
+C02137,Santa Fe,Recurrente
+C02138,AMBA,Consumidor final
+C02139,AMBA,Recurrente
+C02140,Patagonia,Recurrente
+C02141,AMBA,Consumidor final
+C02142,Cuyo,Consumidor final
+C02143,Cuyo,Premium
+C02144,Patagonia,Corporativo
+C02145,Santa Fe,Consumidor final
+C02146,AMBA,Consumidor final
+C02147,Córdoba,Consumidor final
+C02148,Cuyo,Consumidor final
+C02149,Cuyo,Consumidor final
+C02150,AMBA,Consumidor final
+C02151,Córdoba,Recurrente
+C02152,NEA,Consumidor final
+C02153,AMBA,Corporativo
+C02154,Santa Fe,Consumidor final
+C02155,NOA,Consumidor final
+C02156,NEA,Consumidor final
+C02157,Centro-Buenos Aires,Premium
+C02158,AMBA,Premium
+C02159,Santa Fe,Consumidor final
+C02160,Centro-Buenos Aires,Recurrente
+C02161,Santa Fe,Consumidor final
+C02162,AMBA,Premium
+C02163,AMBA,Recurrente
+C02164,Córdoba,Consumidor final
+C02165,Patagonia,Consumidor final
+C02166,Santa Fe,Recurrente
+C02167,AMBA,Recurrente
+C02168,AMBA,Premium
+C02169,Cuyo,Consumidor final
+C02170,Córdoba,Premium
+C02171,Santa Fe,Consumidor final
+C02172,AMBA,Consumidor final
+C02173,AMBA,Recurrente
+C02174,Córdoba,Consumidor final
+C02175,Córdoba,Consumidor final
+C02176,Santa Fe,Consumidor final
+C02177,Patagonia,Consumidor final
+C02178,AMBA,Recurrente
+C02179,AMBA,Corporativo
+C02180,Centro-Buenos Aires,Consumidor final
+C02181,NOA,Recurrente
+C02182,Patagonia,Consumidor final
+C02183,Cuyo,Consumidor final
+C02184,Córdoba,Recurrente
+C02185,AMBA,Consumidor final
+C02186,NEA,Recurrente
+C02187,Córdoba,Corporativo
+C02188,AMBA,Consumidor final
+C02189,Santa Fe,Recurrente
+C02190,Cuyo,Consumidor final
+C02191,Córdoba,Recurrente
+C02192,NOA,Premium
+C02193,Cuyo,Consumidor final
+C02194,Santa Fe,Corporativo
+C02195,AMBA,Premium
+C02196,AMBA,Consumidor final
+C02197,NOA,Premium
+C02198,Patagonia,Consumidor final
+C02199,AMBA,Premium
+C02200,Centro-Buenos Aires,Consumidor final

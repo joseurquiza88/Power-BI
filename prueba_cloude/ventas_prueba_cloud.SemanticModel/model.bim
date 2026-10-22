@@ -1,0 +1,463 @@
+{
+  "compatibilityLevel": 1606,
+  "model": {
+    "annotations": [
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"clientes\",\"pedidos\",\"detalle_pedidos\",\"productos\",\"Calendario\",\"_Medidas\"]"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "1"
+      },
+      {
+        "name": "PBI_ProTooling",
+        "value": "[\"DevMode\"]"
+      }
+    ],
+    "culture": "es-ES",
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "relationships": [
+      {
+        "name": "Rel_Detalle_Pedidos",
+        "fromColumn": "id_pedido",
+        "fromTable": "detalle_pedidos",
+        "toColumn": "id_pedido",
+        "toTable": "pedidos"
+      },
+      {
+        "name": "Rel_Detalle_Productos",
+        "fromColumn": "id_producto",
+        "fromTable": "detalle_pedidos",
+        "toColumn": "id_producto",
+        "toTable": "productos"
+      },
+      {
+        "name": "Rel_Pedidos_Clientes",
+        "fromColumn": "id_cliente",
+        "fromTable": "pedidos",
+        "toColumn": "id_cliente",
+        "toTable": "clientes"
+      },
+      {
+        "name": "Rel_Pedidos_Calendario",
+        "fromColumn": "fecha",
+        "fromTable": "pedidos",
+        "toColumn": "Fecha",
+        "toTable": "Calendario"
+      }
+    ],
+    "sourceQueryCulture": "es-ES",
+    "tables": [
+      {
+        "name": "clientes",
+        "columns": [
+          {
+            "name": "id_cliente",
+            "dataType": "string",
+            "isNullable": false,
+            "lineageTag": "518bb52f-6f54-444a-9f16-5dcb2771fd20",
+            "sourceColumn": "id_cliente",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "region",
+            "dataType": "string",
+            "lineageTag": "e9f9105e-288a-487d-95ac-586cda47c56c",
+            "sourceColumn": "region",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "segmento",
+            "dataType": "string",
+            "lineageTag": "906f8b71-5dc1-4aa8-bb9a-2fa25c70c366",
+            "sourceColumn": "segmento",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "9573d3ae-d138-40df-a426-cd0c3379f2de",
+        "partitions": [
+          {
+            "name": "clientes",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Origen = Csv.Document(File.Contents(\"D:\\\\Josefina\\\\Proyectos\\\\Datascience\\\\Power-BI\\\\prueba_cloude\\\\clientes.csv\"),[Delimiter=\",\", Columns=3, Encoding=65001, QuoteStyle=QuoteStyle.None]),",
+                "    #\"Encabezados promovidos\" = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),",
+                "    #\"Tipo cambiado\" = Table.TransformColumnTypes(#\"Encabezados promovidos\",{{\"id_cliente\", type text}, {\"region\", type text}, {\"segmento\", type text}})",
+                "in",
+                "    #\"Tipo cambiado\""
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "pedidos",
+        "columns": [
+          {
+            "name": "id_pedido",
+            "dataType": "string",
+            "isNullable": false,
+            "lineageTag": "5b01e17c-c2f5-4c31-a7bf-5db27f6ee84b",
+            "sourceColumn": "id_pedido",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "fecha",
+            "annotations": [
+              {
+                "name": "UnderlyingDateTimeDataType",
+                "value": "Date"
+              }
+            ],
+            "dataType": "dateTime",
+            "formatString": "yyyy-MM-dd",
+            "lineageTag": "41931c63-b30e-4127-9a75-9bda3d60a089",
+            "sourceColumn": "fecha",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "id_cliente",
+            "dataType": "string",
+            "lineageTag": "b702a5ba-48d6-4c82-bb1d-ed132c92f9dc",
+            "sourceColumn": "id_cliente",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "25082b44-6a48-4fa4-9a00-24c19fc631bc",
+        "partitions": [
+          {
+            "name": "pedidos",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Origen = Csv.Document(File.Contents(\"D:\\\\Josefina\\\\Proyectos\\\\Datascience\\\\Power-BI\\\\prueba_cloude\\\\pedidos.csv\"),[Delimiter=\",\", Columns=3, Encoding=65001, QuoteStyle=QuoteStyle.None]),",
+                "    #\"Encabezados promovidos\" = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),",
+                "    #\"Tipo cambiado\" = Table.TransformColumnTypes(#\"Encabezados promovidos\",{{\"id_pedido\", type text}, {\"fecha\", type date}, {\"id_cliente\", type text}})",
+                "in",
+                "    #\"Tipo cambiado\""
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "productos",
+        "columns": [
+          {
+            "name": "id_producto",
+            "dataType": "string",
+            "isNullable": false,
+            "lineageTag": "2a695974-399e-4202-830a-1e8da6ad5924",
+            "sourceColumn": "id_producto",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "producto",
+            "dataType": "string",
+            "lineageTag": "eaa4ff9d-7d5d-4761-90c1-ed92974c9e87",
+            "sourceColumn": "producto",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "categoria",
+            "dataType": "string",
+            "lineageTag": "9ebfd372-33ad-42d8-a4d6-53104d78a406",
+            "sourceColumn": "categoria",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "precio",
+            "dataType": "double",
+            "formatString": "$#,##0.00;($#,##0.00);$#,##0.00",
+            "lineageTag": "a862d2ad-4568-4fdd-9860-e0b5a57c40ed",
+            "sourceColumn": "precio",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "costo",
+            "dataType": "double",
+            "formatString": "$#,##0.00;($#,##0.00);$#,##0.00",
+            "lineageTag": "b9c083b5-d51b-420c-9c52-98ddb6fe9e8f",
+            "sourceColumn": "costo",
+            "summarizeBy": "sum"
+          }
+        ],
+        "lineageTag": "b0e60755-a813-4adf-936d-14aa4b2f3146",
+        "partitions": [
+          {
+            "name": "productos",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Origen = Csv.Document(File.Contents(\"D:\\\\Josefina\\\\Proyectos\\\\Datascience\\\\Power-BI\\\\prueba_cloude\\\\productos.csv\"),[Delimiter=\",\", Columns=5, Encoding=65001, QuoteStyle=QuoteStyle.None]),",
+                "    #\"Encabezados promovidos\" = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),",
+                "    #\"Tipo cambiado\" = Table.TransformColumnTypes(#\"Encabezados promovidos\",{{\"id_producto\", type text}, {\"producto\", type text}, {\"categoria\", type text}, {\"precio\", type number}, {\"costo\", type number}})",
+                "in",
+                "    #\"Tipo cambiado\""
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "detalle_pedidos",
+        "columns": [
+          {
+            "name": "id_detalle",
+            "dataType": "int64",
+            "isNullable": false,
+            "lineageTag": "2bcb1783-1e49-4f9b-a1f7-4f32b36b82fb",
+            "sourceColumn": "id_detalle",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "id_pedido",
+            "dataType": "string",
+            "lineageTag": "88916ff4-2818-42a5-8d87-bbfd9472009a",
+            "sourceColumn": "id_pedido",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "id_producto",
+            "dataType": "string",
+            "lineageTag": "ec3ec1d7-4d57-4498-8658-190a4449d55b",
+            "sourceColumn": "id_producto",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "cantidad",
+            "dataType": "int64",
+            "lineageTag": "b392ef04-1433-4de5-b9dd-55c6948bfbe6",
+            "sourceColumn": "cantidad",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "precio_unitario",
+            "dataType": "double",
+            "formatString": "$#,##0.00;($#,##0.00);$#,##0.00",
+            "lineageTag": "a4b2b98b-0e53-40e0-a37c-7e2a215d3fa8",
+            "sourceColumn": "precio_unitario",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "descuento",
+            "dataType": "double",
+            "formatString": "0.00%",
+            "lineageTag": "dabd79b3-99f0-42e0-8a63-8cb5250b5a73",
+            "sourceColumn": "descuento",
+            "summarizeBy": "average"
+          }
+        ],
+        "lineageTag": "da5e8868-ea29-42b9-a021-7c98cee2d931",
+        "partitions": [
+          {
+            "name": "detalle_pedidos",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Origen = Csv.Document(File.Contents(\"D:\\\\Josefina\\\\Proyectos\\\\Datascience\\\\Power-BI\\\\prueba_cloude\\\\detalle_pedidos.csv\"),[Delimiter=\"#(tab)\", Columns=6, Encoding=65001, QuoteStyle=QuoteStyle.None]),",
+                "    #\"Encabezados promovidos\" = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),",
+                "    #\"Tipo cambiado\" = Table.TransformColumnTypes(#\"Encabezados promovidos\",{{\"id_detalle\", Int64.Type}, {\"id_pedido\", type text}, {\"id_producto\", type text}, {\"cantidad\", Int64.Type}, {\"precio_unitario\", type number}, {\"descuento\", type number}})",
+                "in",
+                "    #\"Tipo cambiado\""
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Calendario",
+        "columns": [
+          {
+            "name": "Fecha",
+            "annotations": [
+              {
+                "name": "UnderlyingDateTimeDataType",
+                "value": "Date"
+              }
+            ],
+            "dataType": "dateTime",
+            "formatString": "yyyy-MM-dd",
+            "isKey": true,
+            "lineageTag": "80657257-2018-4d2c-b492-52d5cfd0b93a",
+            "sourceColumn": "Fecha",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Anio",
+            "dataType": "int64",
+            "lineageTag": "12b0b2da-f4dd-4912-9816-832280a2d428",
+            "sourceColumn": "Anio",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "NroMes",
+            "dataType": "int64",
+            "lineageTag": "fa3db676-419f-47f3-b7dd-45595ab16408",
+            "sourceColumn": "NroMes",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Mes",
+            "dataType": "string",
+            "lineageTag": "04fa61b4-26cc-48a7-aec6-29e3238569df",
+            "sortByColumn": "NroMes",
+            "sourceColumn": "Mes",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Mes-Anio",
+            "dataType": "string",
+            "lineageTag": "85636564-ec02-4a75-b14b-cad2f393b1b6",
+            "sortByColumn": "NroMes",
+            "sourceColumn": "Mes-Anio",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Trimestre",
+            "dataType": "string",
+            "lineageTag": "7f6c25e0-0382-4dc6-b783-f7fabc4ef86b",
+            "sourceColumn": "Trimestre",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "DiaSemana",
+            "dataType": "string",
+            "lineageTag": "f2f5a702-4c63-4fad-a785-ee186b489d7b",
+            "sourceColumn": "DiaSemana",
+            "summarizeBy": "none"
+          }
+        ],
+        "dataCategory": "Time",
+        "lineageTag": "308cefd4-1d9f-4405-9625-48d25d6c6f8e",
+        "partitions": [
+          {
+            "name": "Calendario",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    FechaInicio = #date(2025, 1, 1),",
+                "    FechaFin = #date(2025, 12, 31),",
+                "    TotalDias = Duration.Days(FechaFin - FechaInicio) + 1,",
+                "    ListaFechas = List.Dates(FechaInicio, TotalDias, #duration(1, 0, 0, 0)),",
+                "    Tabla = Table.FromList(ListaFechas, Splitter.SplitByNothing(), {\"Fecha\"}, null, ExtraValues.Error),",
+                "    TipoFecha = Table.TransformColumnTypes(Tabla,{{\"Fecha\", type date}}),",
+                "    ColAnio = Table.AddColumn(TipoFecha, \"Anio\", each Date.Year([Fecha]), Int64.Type),",
+                "    ColNroMes = Table.AddColumn(ColAnio, \"NroMes\", each Date.Month([Fecha]), Int64.Type),",
+                "    ColMes = Table.AddColumn(ColNroMes, \"Mes\", each Date.ToText([Fecha], \"MMMM\", \"es-ES\"), type text),",
+                "    ColMesAnio = Table.AddColumn(ColMes, \"Mes-Anio\", each Date.ToText([Fecha], \"MMM-yyyy\", \"es-ES\"), type text),",
+                "    ColTrimestre = Table.AddColumn(ColMesAnio, \"Trimestre\", each \"T\" & Text.From(Date.QuarterOfYear([Fecha])), type text),",
+                "    ColDiaSemana = Table.AddColumn(ColTrimestre, \"DiaSemana\", each Date.ToText([Fecha], \"dddd\", \"es-ES\"), type text)",
+                "in",
+                "    ColDiaSemana"
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "_Medidas",
+        "columns": [
+          {
+            "name": "ColumnaDummy",
+            "dataType": "string",
+            "isHidden": true,
+            "lineageTag": "fe542655-90dd-4a52-81a9-495a048396ba",
+            "sourceColumn": "ColumnaDummy",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "d75f624f-6675-4ec1-8c7b-d2f8d053c03a",
+        "measures": [
+          {
+            "name": "Ventas Brutas",
+            "displayFolder": "Ventas",
+            "expression": "SUMX(detalle_pedidos, detalle_pedidos[cantidad] * detalle_pedidos[precio_unitario])",
+            "formatString": "$#,##0.00;($#,##0.00);$#,##0.00",
+            "lineageTag": "3854f4df-ef40-4be3-9ae3-0ca61a5239c8"
+          },
+          {
+            "name": "Ventas Netas",
+            "displayFolder": "Ventas",
+            "expression": "SUMX(detalle_pedidos, detalle_pedidos[cantidad] * detalle_pedidos[precio_unitario] * (1 - detalle_pedidos[descuento]))",
+            "formatString": "$#,##0.00;($#,##0.00);$#,##0.00",
+            "lineageTag": "e3bac4ad-2f1e-4167-b647-d0e558d5ea67"
+          },
+          {
+            "name": "Cantidad Pedidos",
+            "displayFolder": "Volumen",
+            "expression": "DISTINCTCOUNT(pedidos[id_pedido])",
+            "formatString": "#,##0",
+            "lineageTag": "d84a8bb8-4bb3-4b49-b209-58bca3fb9e18"
+          },
+          {
+            "name": "Unidades Vendidas",
+            "displayFolder": "Volumen",
+            "expression": "SUM(detalle_pedidos[cantidad])",
+            "formatString": "#,##0",
+            "lineageTag": "b9bf94d5-358b-4442-a855-f281fdeec49f"
+          },
+          {
+            "name": "Ticket Promedio",
+            "displayFolder": "Ventas",
+            "expression": "DIVIDE([Ventas Netas], [Cantidad Pedidos], 0)",
+            "formatString": "$#,##0.00;($#,##0.00);$#,##0.00",
+            "lineageTag": "90cfa94f-75f7-4acd-a440-1c0308fd8ba6"
+          },
+          {
+            "name": "Costo de Productos Vendidos",
+            "displayFolder": "Costos y Margen",
+            "expression": "SUMX(detalle_pedidos, detalle_pedidos[cantidad] * RELATED(productos[costo]))",
+            "formatString": "$#,##0.00;($#,##0.00);$#,##0.00",
+            "lineageTag": "39711cbd-64ec-4cd2-aaa4-50f51dc8af4a"
+          },
+          {
+            "name": "Margen Bruto",
+            "displayFolder": "Costos y Margen",
+            "expression": "[Ventas Netas] - [Costo de Productos Vendidos]",
+            "formatString": "$#,##0.00;($#,##0.00);$#,##0.00",
+            "lineageTag": "a5bd9cd1-a2b2-44ea-af6e-a830a3de4d92"
+          },
+          {
+            "name": "Porcentaje de Margen",
+            "displayFolder": "Costos y Margen",
+            "expression": "DIVIDE([Margen Bruto], [Ventas Netas], 0)",
+            "formatString": "0.00%",
+            "lineageTag": "baa42b0a-48fa-4431-8b01-25a1af561ec6"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "_Medidas",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Origen = #table({\"ColumnaDummy\"}, {{\"_\"}})",
+                "in",
+                "    Origen"
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

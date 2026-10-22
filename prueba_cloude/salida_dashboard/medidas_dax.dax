@@ -1,0 +1,86 @@
+// =========================================================================
+// MEDIDAS DAX - PROYECTO VENTAS PRUEBA CLOUD
+// Ubicación sugerida: Tabla contenedora [_Medidas]
+// =========================================================================
+
+// 1. VENTAS BRUTAS
+// Suma del producto de cantidad por precio unitario pactado por ítem
+Ventas Brutas = 
+SUMX(
+    detalle_pedidos,
+    detalle_pedidos[cantidad] * detalle_pedidos[precio_unitario]
+)
+// Formato: Moneda ($ #,##0.00)
+// Benchmark global: $129,578,200.00
+
+
+// 2. VENTAS NETAS
+// Ventas efectivas descontando la tasa decimal de descuento por ítem
+// Confirmación técnica: el campo 'descuento' está en tasa decimal (ej. 0.05 = 5%, 0.40 = 40%)
+Ventas Netas = 
+SUMX(
+    detalle_pedidos,
+    detalle_pedidos[cantidad] * detalle_pedidos[precio_unitario] * (1 - detalle_pedidos[descuento])
+)
+// Formato: Moneda ($ #,##0.00)
+// Benchmark global: $115,000,003.60
+
+
+// 3. CANTIDAD DE PEDIDOS
+// Conteo único de órdenes de compra procesadas
+Cantidad Pedidos = 
+DISTINCTCOUNT(pedidos[id_pedido])
+// Formato: Número entero (#,##0)
+// Benchmark global: 2,700
+
+
+// 4. UNIDADES VENDIDAS
+// Total de artículos físicos vendidos
+Unidades Vendidas = 
+SUM(detalle_pedidos[cantidad])
+// Formato: Número entero (#,##0)
+// Benchmark global: 4,500
+
+
+// 5. TICKET PROMEDIO
+// Venta neta promedio generada por cada orden de compra
+Ticket Promedio = 
+DIVIDE(
+    [Ventas Netas],
+    [Cantidad Pedidos],
+    0
+)
+// Formato: Moneda ($ #,##0.00)
+// Benchmark global: $42,592.59
+
+
+// 6. COSTO DE PRODUCTOS VENDIDOS (COGS)
+// Costo valorizado de la mercadería vendida según catálogo maestro
+// Se utiliza RELATED para vincular la tabla de hechos con la dimensión de productos sin duplicar filas
+Costo de Productos Vendidos = 
+SUMX(
+    detalle_pedidos,
+    detalle_pedidos[cantidad] * RELATED(productos[costo])
+)
+// Formato: Moneda ($ #,##0.00)
+// Benchmark global: $86,992,280.00
+
+
+// 7. MARGEN BRUTO
+// Ganancia bruta monetaria resultante tras deducir el costo a las ventas netas
+Margen Bruto = 
+[Ventas Netas] - [Costo de Productos Vendidos]
+// Formato: Moneda ($ #,##0.00)
+// Benchmark global: $28,007,723.60
+
+
+// 8. PORCENTAJE DE MARGEN
+// Rentabilidad porcentual sobre las ventas netas
+Porcentaje de Margen = 
+DIVIDE(
+    [Margen Bruto],
+    [Ventas Netas],
+    0
+)
+// Formato: Porcentaje (0.00%)
+// Benchmark global: 24.35%

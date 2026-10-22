@@ -1,0 +1,41 @@
+﻿id_producto,producto,categoria,precio,costo
+P001,Cable USB-C 1m,Electrónica,6500,4030
+P002,Auriculares in-ear,Electrónica,18500,12210
+P003,Cargador rápido 20W,Electrónica,14900,9536
+P004,Parlante Bluetooth,Electrónica,42000,30240
+P005,Smartwatch,Electrónica,95000,76000
+P006,"Tablet 10""",Electrónica,210000,180600
+P007,"Smart TV 43""",Electrónica,520000,468000
+P008,"Notebook 15""",Electrónica,890000,818800
+P009,Set de sábanas,Hogar,24500,13475
+P010,Juego de ollas,Hogar,68000,42160
+P011,Pava eléctrica,Hogar,32000,21120
+P012,Licuadora,Hogar,45000,31500
+P013,Aspiradora robot,Hogar,185000,155400
+P014,Lámpara LED de mesa,Hogar,11800,6136
+P015,Remera algodón,Indumentaria,12500,5625
+P016,Jean clásico,Indumentaria,38000,19000
+P017,Campera de abrigo,Indumentaria,72000,39600
+P018,Zapatillas urbanas,Indumentaria,85000,52700
+P019,Buzo canguro,Indumentaria,29500,14160
+P020,Medias pack x3,Indumentaria,5200,2184
+P021,Pelota de fútbol,Deportes,21000,12600
+P022,Mancuernas 5kg par,Deportes,26000,16640
+P023,Bicicleta rodado 29,Deportes,380000,334400
+P024,Colchoneta yoga,Deportes,13800,6900
+P025,Zapatillas running,Deportes,96000,65280
+P026,Crema hidratante,Belleza,9800,3724
+P027,Perfume 100ml,Belleza,58000,29000
+P028,Shampoo profesional,Belleza,8900,3560
+P029,Secador de pelo,Belleza,39000,25740
+P030,Kit maquillaje,Belleza,27500,12375
+P031,Set de bloques,Juguetes,17500,9625
+P032,Muñeca articulada,Juguetes,22000,11440
+P033,Juego de mesa,Juguetes,19800,11088
+P034,Auto a control remoto,Juguetes,34500,21390
+P035,Cuaderno A4 pack x3,Librería,7800,3900
+P036,Mochila escolar,Librería,31000,17050
+P037,Set de lapiceras,Librería,4200,1764
+P038,Agenda 2025,Librería,9500,4560
+P039,Libro de bolsillo,Librería,12800,7424
+P040,Impresora multifunción,Electrónica,240000,208800

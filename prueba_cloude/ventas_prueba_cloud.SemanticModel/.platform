@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "ventas_prueba_cloud"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2b21c513-d891-4e32-a270-bb67917ba3b8"
+  }
+}

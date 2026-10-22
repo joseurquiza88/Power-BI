@@ -1,0 +1,9 @@
+metrica,valor,unidad,detalle
+Ventas Brutas,129578200.00,ARS,Suma de cantidad * precio_unitario
+Ventas Netas,115000003.60,ARS,Suma de cantidad * precio_unitario * (1 - descuento)
+Costo de Productos Vendidos,86992280.00,ARS,Suma de cantidad * costo_unitario (RELATED)
+Margen Bruto,28007723.60,ARS,Ventas Netas - Costo de Productos Vendidos
+Porcentaje de Margen,0.2435,Tasa decimal,Margen Bruto / Ventas Netas (24.35%)
+Cantidad Pedidos,2700,Unidades,Conteo distintivo de id_pedido
+Unidades Vendidas,4500,Artículos,Suma total de cantidad
+Ticket Promedio,42592.59,ARS,Ventas Netas / Cantidad Pedidos
